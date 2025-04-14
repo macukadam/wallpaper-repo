@@ -1,452 +1,752 @@
 [
-  {
-    "id": "nature",
-    "name": "Nature",
-    "description": "Beautiful landscapes, forests, and natural scenery",
-    "coverImage": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=500&q=80",
-    "wallpapers": [
-      {
-        "id": "nature-1",
-        "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1080",
-        "title": "Lakeside Mountains",
-        "author": "Benjamin Voros",
-        "thumbnail": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=500&q=80"
-      },
-      {
-        "id": "nature-2",
-        "url": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=1080",
-        "title": "Forest Path",
-        "author": "Robert Lukeman",
-        "thumbnail": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=500&q=80"
-      },
-      {
-        "id": "nature-3",
-        "url": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=1080",
-        "title": "Mountain Range",
-        "author": "Joshua Earle",
-        "thumbnail": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=500&q=80"
-      },
-      {
-        "id": "nature-4",
-        "url": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=1080",
-        "title": "Lake Reflection",
-        "author": "Luca Bravo",
-        "thumbnail": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=500&q=80"
-      },
-      {
-        "id": "nature-5",
-        "url": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1080",
-        "title": "Pine Trees",
-        "author": "David Marcu",
-        "thumbnail": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=500&q=80"
-      },
-      {
-        "id": "nature-6",
-        "url": "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=1080",
-        "title": "Autumn Forest",
-        "author": "Tim Swaan",
-        "thumbnail": "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=500&q=80"
-      }
-    ]
-  },
-  {
-    "id": "minimal",
-    "name": "Minimal",
-    "description": "Clean, simple, and minimalist wallpapers",
-    "coverImage": "https://images.unsplash.com/photo-1517816743773-6e0fd518b4a6?w=500&q=80",
-    "wallpapers": [
-      {
-        "id": "minimal-1",
-        "url": "https://images.unsplash.com/photo-1517816743773-6e0fd518b4a6?w=1080",
-        "title": "White Texture",
-        "author": "Luke Chesser",
-        "thumbnail": "https://images.unsplash.com/photo-1517816743773-6e0fd518b4a6?w=500&q=80"
-      },
-      {
-        "id": "minimal-2",
-        "url": "https://images.unsplash.com/photo-1557683316-973673baf926?w=1080",
-        "title": "Gradient",
-        "author": "Hubble Space Telescope",
-        "thumbnail": "https://images.unsplash.com/photo-1557683316-973673baf926?w=500&q=80"
-      },
-      {
-        "id": "minimal-3",
-        "url": "https://images.unsplash.com/photo-1544306094-e2dcf9479da3?w=1080",
-        "title": "Minimal Shapes",
-        "author": "Jessica Arends",
-        "thumbnail": "https://images.unsplash.com/photo-1544306094-e2dcf9479da3?w=500&q=80"
-      },
-      {
-        "id": "minimal-4",
-        "url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=1080",
-        "title": "Workspace",
-        "author": "Norbert Levajsics",
-        "thumbnail": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=500&q=80"
-      },
-      {
-        "id": "minimal-5",
-        "url": "https://images.unsplash.com/photo-1486072889922-9aea1fc0a34d?w=1080",
-        "title": "White Wall",
-        "author": "Kelly Sikkema",
-        "thumbnail": "https://images.unsplash.com/photo-1486072889922-9aea1fc0a34d?w=500&q=80"
-      },
-      {
-        "id": "minimal-6",
-        "url": "https://images.unsplash.com/photo-1488972685288-c3fd157d7c7a?w=1080",
-        "title": "Geometric",
-        "author": "Pawel Czerwinski",
-        "thumbnail": "https://images.unsplash.com/photo-1488972685288-c3fd157d7c7a?w=500&q=80"
-      }
-    ]
-  },
-  {
-    "id": "dark",
-    "name": "Dark",
-    "description": "Dark-themed wallpapers for OLED screens",
-    "coverImage": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=500&q=80",
-    "wallpapers": [
-      {
-        "id": "dark-1",
-        "url": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=1080",
-        "title": "Night Sky",
-        "author": "Jeremy Thomas",
-        "thumbnail": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=500&q=80"
-      },
-      {
-        "id": "dark-2",
-        "url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=1080",
-        "title": "Starry Mountains",
-        "author": "Joshua Earle",
-        "thumbnail": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=500&q=80"
-      },
-      {
-        "id": "dark-3",
-        "url": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?w=1080",
-        "title": "Milky Way",
-        "author": "Klemen Vrankar",
-        "thumbnail": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?w=500&q=80"
-      },
-      {
-        "id": "dark-4",
-        "url": "https://images.unsplash.com/photo-1529788295308-1eace6f67388?w=1080",
-        "title": "Black Texture",
-        "author": "Paweł Czerwiński",
-        "thumbnail": "https://images.unsplash.com/photo-1529788295308-1eace6f67388?w=500&q=80"
-      },
-      {
-        "id": "dark-5",
-        "url": "https://images.unsplash.com/photo-1535012346853-efbe9bdda474?w=1080",
-        "title": "Dark Gradient",
-        "author": "Todd Diemer",
-        "thumbnail": "https://images.unsplash.com/photo-1535012346853-efbe9bdda474?w=500&q=80"
-      },
-      {
-        "id": "dark-6",
-        "url": "https://images.unsplash.com/photo-1520034475321-cbe63696469a?w=1080",
-        "title": "Night City",
-        "author": "Luca Bravo",
-        "thumbnail": "https://images.unsplash.com/photo-1520034475321-cbe63696469a?w=500&q=80"
-      }
-    ]
-  },
-  {
-    "id": "abstract",
-    "name": "Abstract",
-    "description": "Creative and artistic abstract patterns",
-    "coverImage": "https://images.unsplash.com/photo-1550859492-d5da9d8e45f3?w=500&q=80",
-    "wallpapers": [
-      {
-        "id": "abstract-1",
-        "url": "https://images.unsplash.com/photo-1550859492-d5da9d8e45f3?w=1080",
-        "title": "Color Splash",
-        "author": "Birmingham Museums Trust",
-        "thumbnail": "https://images.unsplash.com/photo-1550859492-d5da9d8e45f3?w=500&q=80"
-      },
-      {
-        "id": "abstract-2",
-        "url": "https://images.unsplash.com/photo-1553356084-58ef4a67b2a7?w=1080",
-        "title": "Waves",
-        "author": "Pawel Czerwinski",
-        "thumbnail": "https://images.unsplash.com/photo-1553356084-58ef4a67b2a7?w=500&q=80"
-      },
-      {
-        "id": "abstract-3",
-        "url": "https://images.unsplash.com/photo-1604871000636-074fa5117945?w=1080",
-        "title": "Neon Lights",
-        "author": "Milad Fakurian",
-        "thumbnail": "https://images.unsplash.com/photo-1604871000636-074fa5117945?w=500&q=80"
-      },
-      {
-        "id": "abstract-4",
-        "url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1080",
-        "title": "Abstract Art",
-        "author": "Milad Fakurian",
-        "thumbnail": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=500&q=80"
-      },
-      {
-        "id": "abstract-5",
-        "url": "https://images.unsplash.com/photo-1511447333015-45b65e60f6d5?w=1080",
-        "title": "Fluid Colors",
-        "author": "Geordanna Cordero",
-        "thumbnail": "https://images.unsplash.com/photo-1511447333015-45b65e60f6d5?w=500&q=80"
-      },
-      {
-        "id": "abstract-6",
-        "url": "https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?w=1080",
-        "title": "Colorful Smoke",
-        "author": "Pascal Debrunner",
-        "thumbnail": "https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?w=500&q=80"
-      }
-    ]
-  },
-  {
-    "id": "anime",
-    "name": "Anime",
-    "description": "Stunning anime and Japanese animation artwork",
-    "coverImage": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=500&q=80",
-    "wallpapers": [
-      {
-        "id": "anime-1",
-        "url": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=1080",
-        "title": "Tokyo Streets",
-        "author": "Jezael Melgoza",
-        "thumbnail": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=500&q=80"
-      },
-      {
-        "id": "anime-2",
-        "url": "https://images.unsplash.com/photo-1626197031507-c9c4a0108fba?w=1080",
-        "title": "Anime Figurines",
-        "author": "Alexander Jawfox",
-        "thumbnail": "https://images.unsplash.com/photo-1626197031507-c9c4a0108fba?w=500&q=80"
-      },
-      {
-        "id": "anime-3",
-        "url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=1080",
-        "title": "Japanese Temple",
-        "author": "Nico Marks",
-        "thumbnail": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=500&q=80"
-      },
-      {
-        "id": "anime-4",
-        "url": "https://images.unsplash.com/photo-1565060169187-5592a9c3e04b?w=1080",
-        "title": "Tokyo Tower",
-        "author": "Jezael Melgoza",
-        "thumbnail": "https://images.unsplash.com/photo-1565060169187-5592a9c3e04b?w=500&q=80"
-      },
-      {
-        "id": "anime-5",
-        "url": "https://images.unsplash.com/photo-1531171673193-06ab01a7a887?w=1080",
-        "title": "Cherry Blossoms",
-        "author": "Su San Lee",
-        "thumbnail": "https://images.unsplash.com/photo-1531171673193-06ab01a7a887?w=500&q=80"
-      },
-      {
-        "id": "anime-6",
-        "url": "https://images.unsplash.com/photo-1617628796349-a85ce72a337a?w=1080",
-        "title": "Akihabara",
-        "author": "Clay Banks",
-        "thumbnail": "https://images.unsplash.com/photo-1617628796349-a85ce72a337a?w=500&q=80"
-      }
-    ]
-  },
-  {
-    "id": "tv-series",
-    "name": "TV Series",
-    "description": "Wallpapers inspired by popular TV shows and streaming series",
-    "coverImage": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=500&q=80",
-    "wallpapers": [
-      {
-        "id": "tv-1",
-        "url": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=1080",
-        "title": "Neon Streaming",
-        "author": "Mollie Sivaram",
-        "thumbnail": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=500&q=80"
-      },
-      {
-        "id": "tv-2",
-        "url": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=1080",
-        "title": "Movie Night",
-        "author": "Erik Mclean",
-        "thumbnail": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=500&q=80"
-      },
-      {
-        "id": "tv-3",
-        "url": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=1080",
-        "title": "TV Production",
-        "author": "Kirstin Waldmann",
-        "thumbnail": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=500&q=80"
-      },
-      {
-        "id": "tv-4",
-        "url": "https://images.unsplash.com/photo-1567690187548-f07b1d7bf5a9?w=1080",
-        "title": "Cinema",
-        "author": "Jake Hills",
-        "thumbnail": "https://images.unsplash.com/photo-1567690187548-f07b1d7bf5a9?w=500&q=80"
-      },
-      {
-        "id": "tv-5",
-        "url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=1080",
-        "title": "Home Theater",
-        "author": "Yasamine June",
-        "thumbnail": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=500&q=80"
-      },
-      {
-        "id": "tv-6",
-        "url": "https://images.unsplash.com/photo-1586899028174-e7098604235b?w=1080",
-        "title": "Popcorn Time",
-        "author": "Thibault Penin",
-        "thumbnail": "https://images.unsplash.com/photo-1586899028174-e7098604235b?w=500&q=80"
-      }
-    ]
-  },
-  {
-    "id": "music",
-    "name": "Musicians",
-    "description": "Wallpapers celebrating music and musicians across genres",
-    "coverImage": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=500&q=80",
-    "wallpapers": [
-      {
-        "id": "music-1",
-        "url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=1080",
-        "title": "DJ Vibes",
-        "author": "Spencer Imbrock",
-        "thumbnail": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=500&q=80"
-      },
-      {
-        "id": "music-2",
-        "url": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=1080",
-        "title": "Concert",
-        "author": "Austin Neill",
-        "thumbnail": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=500&q=80"
-      },
-      {
-        "id": "music-3",
-        "url": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1080",
-        "title": "Rock Stage",
-        "author": "Josh Sorenson",
-        "thumbnail": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=500&q=80"
-      },
-      {
-        "id": "music-4",
-        "url": "https://images.unsplash.com/photo-1501612780327-45045538702b?w=1080",
-        "title": "Guitar Close-up",
-        "author": "Eric Nopanen",
-        "thumbnail": "https://images.unsplash.com/photo-1501612780327-45045538702b?w=500&q=80"
-      },
-      {
-        "id": "music-5",
-        "url": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=1080",
-        "title": "Live Music",
-        "author": "Mohammad Metri",
-        "thumbnail": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=500&q=80"
-      },
-      {
-        "id": "music-6",
-        "url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1080",
-        "title": "Headphones",
-        "author": "C D-X",
-        "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
-      }
-    ]
-  },
-  {
-    "id": "space",
-    "name": "Space",
-    "description": "Stunning images of galaxies, planets, and cosmic phenomena",
-    "coverImage": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=500&q=80",
-    "wallpapers": [
-      {
-        "id": "space-1",
-        "url": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=1080",
-        "title": "Galaxy",
-        "author": "Jeremy Thomas",
-        "thumbnail": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=500&q=80"
-      },
-      {
-        "id": "space-2",
-        "url": "https://images.unsplash.com/photo-1537420327992-d6e192287183?w=1080",
-        "title": "Cosmic Dust",
-        "author": "NASA",
-        "thumbnail": "https://images.unsplash.com/photo-1537420327992-d6e192287183?w=500&q=80"
-      },
-      {
-        "id": "space-3",
-        "url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1080",
-        "title": "Earth View",
-        "author": "NASA",
-        "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=500&q=80"
-      },
-      {
-        "id": "space-4",
-        "url": "https://images.unsplash.com/photo-1614732414444-096e5f1122d5?w=1080",
-        "title": "Nebula",
-        "author": "Joshua Earle",
-        "thumbnail": "https://images.unsplash.com/photo-1614732414444-096e5f1122d5?w=500&q=80"
-      },
-      {
-        "id": "space-5",
-        "url": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=1080",
-        "title": "Stars",
-        "author": "Shot by Cerqueira",
-        "thumbnail": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=500&q=80"
-      },
-      {
-        "id": "space-6",
-        "url": "https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?w=1080",
-        "title": "Aurora",
-        "author": "Casey Horner",
-        "thumbnail": "https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?w=500&q=80"
-      }
-    ]
-  },
-  {
-    "id": "cyberpunk",
-    "name": "Cyberpunk",
-    "description": "Futuristic dystopian cityscapes with neon lights",
-    "coverImage": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?w=500&q=80",
-    "wallpapers": [
-      {
-        "id": "cyber-1",
-        "url": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?w=1080",
-        "title": "Neon City",
-        "author": "Sean Foley",
-        "thumbnail": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?w=500&q=80"
-      },
-      {
-        "id": "cyber-2",
-        "url": "https://images.unsplash.com/photo-1520084848985-5e34be51bb46?w=1080",
-        "title": "Cyber Lights",
-        "author": "Alex Knight",
-        "thumbnail": "https://images.unsplash.com/photo-1520084848985-5e34be51bb46?w=500&q=80"
-      },
-      {
-        "id": "cyber-3",
-        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1080",
-        "title": "Tech Grid",
-        "author": "Nicolas Picard",
-        "thumbnail": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=500&q=80"
-      },
-      {
-        "id": "cyber-4",
-        "url": "https://images.unsplash.com/photo-1558244661-d248897f7bc4?w=1080",
-        "title": "Future Tech",
-        "author": "James Owen",
-        "thumbnail": "https://images.unsplash.com/photo-1558244661-d248897f7bc4?w=500&q=80"
-      },
-      {
-        "id": "cyber-5",
-        "url": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=1080",
-        "title": "Code",
-        "author": "Florian Olivo",
-        "thumbnail": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=500&q=80"
-      },
-      {
-        "id": "cyber-6",
-        "url": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1080",
-        "title": "Tech Hub",
-        "author": "Alexandre Debiève",
-        "thumbnail": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=500&q=80"
-      }
-    ]
-  }
+    {
+        "id": "nature",
+        "name": "Nature",
+        "description": "Beautiful landscapes, forests, and natural scenery",
+        "coverImage": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=500&q=80",
+        "wallpapers": [
+            {
+                "id": "nature-1",
+                "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1080",
+                "title": "Lakeside Mountains",
+                "author": "Benjamin Voros",
+                "thumbnail": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=500&q=80"
+            },
+            {
+                "id": "nature-2",
+                "url": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=1080",
+                "title": "Forest Path",
+                "author": "Robert Lukeman",
+                "thumbnail": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=500&q=80"
+            },
+            {
+                "id": "nature-3",
+                "url": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=1080",
+                "title": "Mountain Range",
+                "author": "Joshua Earle",
+                "thumbnail": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=500&q=80"
+            },
+            {
+                "id": "nature-4",
+                "url": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=1080",
+                "title": "Lake Reflection",
+                "author": "Luca Bravo",
+                "thumbnail": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=500&q=80"
+            },
+            {
+                "id": "nature-5",
+                "url": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1080",
+                "title": "Pine Trees",
+                "author": "David Marcu",
+                "thumbnail": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=500&q=80"
+            },
+            {
+                "id": "nature-6",
+                "url": "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=1080",
+                "title": "Autumn Forest",
+                "author": "Tim Swaan",
+                "thumbnail": "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=500&q=80"
+            }
+        ]
+    },
+    {
+        "id": "minimal",
+        "name": "Minimal",
+        "description": "Clean, simple, and minimalist wallpapers",
+        "coverImage": "https://images.unsplash.com/photo-1517816743773-6e0fd518b4a6?w=500&q=80",
+        "wallpapers": [
+            {
+                "id": "minimal-1",
+                "url": "https://images.unsplash.com/photo-1517816743773-6e0fd518b4a6?w=1080",
+                "title": "White Texture",
+                "author": "Luke Chesser",
+                "thumbnail": "https://images.unsplash.com/photo-1517816743773-6e0fd518b4a6?w=500&q=80"
+            },
+            {
+                "id": "minimal-2",
+                "url": "https://images.unsplash.com/photo-1557683316-973673baf926?w=1080",
+                "title": "Gradient",
+                "author": "Hubble Space Telescope",
+                "thumbnail": "https://images.unsplash.com/photo-1557683316-973673baf926?w=500&q=80"
+            },
+            {
+                "id": "minimal-3",
+                "url": "https://images.unsplash.com/photo-1544306094-e2dcf9479da3?w=1080",
+                "title": "Minimal Shapes",
+                "author": "Jessica Arends",
+                "thumbnail": "https://images.unsplash.com/photo-1544306094-e2dcf9479da3?w=500&q=80"
+            },
+            {
+                "id": "minimal-4",
+                "url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=1080",
+                "title": "Workspace",
+                "author": "Norbert Levajsics",
+                "thumbnail": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=500&q=80"
+            },
+            {
+                "id": "minimal-5",
+                "url": "https://images.unsplash.com/photo-1486072889922-9aea1fc0a34d?w=1080",
+                "title": "White Wall",
+                "author": "Kelly Sikkema",
+                "thumbnail": "https://images.unsplash.com/photo-1486072889922-9aea1fc0a34d?w=500&q=80"
+            },
+            {
+                "id": "minimal-6",
+                "url": "https://images.unsplash.com/photo-1488972685288-c3fd157d7c7a?w=1080",
+                "title": "Geometric",
+                "author": "Pawel Czerwinski",
+                "thumbnail": "https://images.unsplash.com/photo-1488972685288-c3fd157d7c7a?w=500&q=80"
+            }
+        ]
+    },
+    {
+        "id": "dark",
+        "name": "Dark",
+        "description": "Dark-themed wallpapers for OLED screens",
+        "coverImage": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=500&q=80",
+        "wallpapers": [
+            {
+                "id": "dark-1",
+                "url": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=1080",
+                "title": "Night Sky",
+                "author": "Jeremy Thomas",
+                "thumbnail": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=500&q=80"
+            },
+            {
+                "id": "dark-2",
+                "url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=1080",
+                "title": "Starry Mountains",
+                "author": "Joshua Earle",
+                "thumbnail": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=500&q=80"
+            },
+            {
+                "id": "dark-3",
+                "url": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?w=1080",
+                "title": "Milky Way",
+                "author": "Klemen Vrankar",
+                "thumbnail": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?w=500&q=80"
+            },
+            {
+                "id": "dark-4",
+                "url": "https://images.unsplash.com/photo-1529788295308-1eace6f67388?w=1080",
+                "title": "Black Texture",
+                "author": "Paweł Czerwiński",
+                "thumbnail": "https://images.unsplash.com/photo-1529788295308-1eace6f67388?w=500&q=80"
+            },
+            {
+                "id": "dark-5",
+                "url": "https://images.unsplash.com/photo-1535012346853-efbe9bdda474?w=1080",
+                "title": "Dark Gradient",
+                "author": "Todd Diemer",
+                "thumbnail": "https://images.unsplash.com/photo-1535012346853-efbe9bdda474?w=500&q=80"
+            },
+            {
+                "id": "dark-6",
+                "url": "https://images.unsplash.com/photo-1520034475321-cbe63696469a?w=1080",
+                "title": "Night City",
+                "author": "Luca Bravo",
+                "thumbnail": "https://images.unsplash.com/photo-1520034475321-cbe63696469a?w=500&q=80"
+            }
+        ]
+    },
+    {
+        "id": "abstract",
+        "name": "Abstract",
+        "description": "Creative and artistic abstract patterns",
+        "coverImage": "https://images.unsplash.com/photo-1550859492-d5da9d8e45f3?w=500&q=80",
+        "wallpapers": [
+            {
+                "id": "abstract-1",
+                "url": "https://images.unsplash.com/photo-1550859492-d5da9d8e45f3?w=1080",
+                "title": "Color Splash",
+                "author": "Birmingham Museums Trust",
+                "thumbnail": "https://images.unsplash.com/photo-1550859492-d5da9d8e45f3?w=500&q=80"
+            },
+            {
+                "id": "abstract-2",
+                "url": "https://images.unsplash.com/photo-1553356084-58ef4a67b2a7?w=1080",
+                "title": "Waves",
+                "author": "Pawel Czerwinski",
+                "thumbnail": "https://images.unsplash.com/photo-1553356084-58ef4a67b2a7?w=500&q=80"
+            },
+            {
+                "id": "abstract-3",
+                "url": "https://images.unsplash.com/photo-1604871000636-074fa5117945?w=1080",
+                "title": "Neon Lights",
+                "author": "Milad Fakurian",
+                "thumbnail": "https://images.unsplash.com/photo-1604871000636-074fa5117945?w=500&q=80"
+            },
+            {
+                "id": "abstract-4",
+                "url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1080",
+                "title": "Abstract Art",
+                "author": "Milad Fakurian",
+                "thumbnail": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=500&q=80"
+            },
+            {
+                "id": "abstract-5",
+                "url": "https://images.unsplash.com/photo-1511447333015-45b65e60f6d5?w=1080",
+                "title": "Fluid Colors",
+                "author": "Geordanna Cordero",
+                "thumbnail": "https://images.unsplash.com/photo-1511447333015-45b65e60f6d5?w=500&q=80"
+            },
+            {
+                "id": "abstract-6",
+                "url": "https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?w=1080",
+                "title": "Colorful Smoke",
+                "author": "Pascal Debrunner",
+                "thumbnail": "https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?w=500&q=80"
+            }
+        ]
+    },
+    {
+        "id": "anime",
+        "name": "Anime",
+        "description": "Stunning anime and Japanese animation artwork",
+        "coverImage": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=500&q=80",
+        "wallpapers": [
+            {
+                "id": "anime-1",
+                "url": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=1080",
+                "title": "Tokyo Streets",
+                "author": "Jezael Melgoza",
+                "thumbnail": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=500&q=80"
+            },
+            {
+                "id": "anime-2",
+                "url": "https://images.unsplash.com/photo-1626197031507-c9c4a0108fba?w=1080",
+                "title": "Anime Figurines",
+                "author": "Alexander Jawfox",
+                "thumbnail": "https://images.unsplash.com/photo-1626197031507-c9c4a0108fba?w=500&q=80"
+            },
+            {
+                "id": "anime-3",
+                "url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=1080",
+                "title": "Japanese Temple",
+                "author": "Nico Marks",
+                "thumbnail": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=500&q=80"
+            },
+            {
+                "id": "anime-4",
+                "url": "https://images.unsplash.com/photo-1565060169187-5592a9c3e04b?w=1080",
+                "title": "Tokyo Tower",
+                "author": "Jezael Melgoza",
+                "thumbnail": "https://images.unsplash.com/photo-1565060169187-5592a9c3e04b?w=500&q=80"
+            },
+            {
+                "id": "anime-5",
+                "url": "https://images.unsplash.com/photo-1531171673193-06ab01a7a887?w=1080",
+                "title": "Cherry Blossoms",
+                "author": "Su San Lee",
+                "thumbnail": "https://images.unsplash.com/photo-1531171673193-06ab01a7a887?w=500&q=80"
+            },
+            {
+                "id": "anime-6",
+                "url": "https://images.unsplash.com/photo-1617628796349-a85ce72a337a?w=1080",
+                "title": "Akihabara",
+                "author": "Clay Banks",
+                "thumbnail": "https://images.unsplash.com/photo-1617628796349-a85ce72a337a?w=500&q=80"
+            }
+        ]
+    },
+    {
+        "id": "tv-series",
+        "name": "TV Series",
+        "description": "Wallpapers inspired by popular TV shows and streaming series",
+        "coverImage": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=500&q=80",
+        "wallpapers": [
+            {
+                "id": "tv-1",
+                "url": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=1080",
+                "title": "Neon Streaming",
+                "author": "Mollie Sivaram",
+                "thumbnail": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=500&q=80"
+            },
+            {
+                "id": "tv-2",
+                "url": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=1080",
+                "title": "Movie Night",
+                "author": "Erik Mclean",
+                "thumbnail": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=500&q=80"
+            },
+            {
+                "id": "tv-3",
+                "url": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=1080",
+                "title": "TV Production",
+                "author": "Kirstin Waldmann",
+                "thumbnail": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=500&q=80"
+            },
+            {
+                "id": "tv-4",
+                "url": "https://images.unsplash.com/photo-1567690187548-f07b1d7bf5a9?w=1080",
+                "title": "Cinema",
+                "author": "Jake Hills",
+                "thumbnail": "https://images.unsplash.com/photo-1567690187548-f07b1d7bf5a9?w=500&q=80"
+            },
+            {
+                "id": "tv-5",
+                "url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=1080",
+                "title": "Home Theater",
+                "author": "Yasamine June",
+                "thumbnail": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=500&q=80"
+            },
+            {
+                "id": "tv-6",
+                "url": "https://images.unsplash.com/photo-1586899028174-e7098604235b?w=1080",
+                "title": "Popcorn Time",
+                "author": "Thibault Penin",
+                "thumbnail": "https://images.unsplash.com/photo-1586899028174-e7098604235b?w=500&q=80"
+            }
+        ]
+    },
+    {
+        "id": "music",
+        "name": "Musicians",
+        "description": "Wallpapers celebrating music and musicians across genres",
+        "coverImage": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=500&q=80",
+        "wallpapers": [
+            {
+                "id": "music-1",
+                "url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=1080",
+                "title": "DJ Vibes",
+                "author": "Spencer Imbrock",
+                "thumbnail": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=500&q=80"
+            },
+            {
+                "id": "music-2",
+                "url": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=1080",
+                "title": "Concert",
+                "author": "Austin Neill",
+                "thumbnail": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=500&q=80"
+            },
+            {
+                "id": "music-3",
+                "url": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1080",
+                "title": "Rock Stage",
+                "author": "Josh Sorenson",
+                "thumbnail": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=500&q=80"
+            },
+            {
+                "id": "music-4",
+                "url": "https://images.unsplash.com/photo-1501612780327-45045538702b?w=1080",
+                "title": "Guitar Close-up",
+                "author": "Eric Nopanen",
+                "thumbnail": "https://images.unsplash.com/photo-1501612780327-45045538702b?w=500&q=80"
+            },
+            {
+                "id": "music-5",
+                "url": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=1080",
+                "title": "Live Music",
+                "author": "Mohammad Metri",
+                "thumbnail": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=500&q=80"
+            },
+            {
+                "id": "music-6",
+                "url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1080",
+                "title": "Headphones",
+                "author": "C D-X",
+                "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+            }
+        ]
+    },
+    {
+        "id": "space",
+        "name": "Space",
+        "description": "Stunning images of galaxies, planets, and cosmic phenomena",
+        "coverImage": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=500&q=80",
+        "wallpapers": [
+            {
+                "id": "space-1",
+                "url": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=1080",
+                "title": "Galaxy",
+                "author": "Jeremy Thomas",
+                "thumbnail": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=500&q=80"
+            },
+            {
+                "id": "space-2",
+                "url": "https://images.unsplash.com/photo-1537420327992-d6e192287183?w=1080",
+                "title": "Cosmic Dust",
+                "author": "NASA",
+                "thumbnail": "https://images.unsplash.com/photo-1537420327992-d6e192287183?w=500&q=80"
+            },
+            {
+                "id": "space-3",
+                "url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1080",
+                "title": "Earth View",
+                "author": "NASA",
+                "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=500&q=80"
+            },
+            {
+                "id": "space-4",
+                "url": "https://images.unsplash.com/photo-1614732414444-096e5f1122d5?w=1080",
+                "title": "Nebula",
+                "author": "Joshua Earle",
+                "thumbnail": "https://images.unsplash.com/photo-1614732414444-096e5f1122d5?w=500&q=80"
+            },
+            {
+                "id": "space-5",
+                "url": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=1080",
+                "title": "Stars",
+                "author": "Shot by Cerqueira",
+                "thumbnail": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=500&q=80"
+            },
+            {
+                "id": "space-6",
+                "url": "https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?w=1080",
+                "title": "Aurora",
+                "author": "Casey Horner",
+                "thumbnail": "https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?w=500&q=80"
+            }
+        ]
+    },
+    {
+        "id": "cyberpunk",
+        "name": "Cyberpunk",
+        "description": "Futuristic dystopian cityscapes with neon lights",
+        "coverImage": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?w=500&q=80",
+        "wallpapers": [
+            {
+                "id": "cyber-1",
+                "url": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?w=1080",
+                "title": "Neon City",
+                "author": "Sean Foley",
+                "thumbnail": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?w=500&q=80"
+            },
+            {
+                "id": "cyber-2",
+                "url": "https://images.unsplash.com/photo-1520084848985-5e34be51bb46?w=1080",
+                "title": "Cyber Lights",
+                "author": "Alex Knight",
+                "thumbnail": "https://images.unsplash.com/photo-1520084848985-5e34be51bb46?w=500&q=80"
+            },
+            {
+                "id": "cyber-3",
+                "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1080",
+                "title": "Tech Grid",
+                "author": "Nicolas Picard",
+                "thumbnail": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=500&q=80"
+            },
+            {
+                "id": "cyber-4",
+                "url": "https://images.unsplash.com/photo-1558244661-d248897f7bc4?w=1080",
+                "title": "Future Tech",
+                "author": "James Owen",
+                "thumbnail": "https://images.unsplash.com/photo-1558244661-d248897f7bc4?w=500&q=80"
+            },
+            {
+                "id": "cyber-5",
+                "url": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=1080",
+                "title": "Code",
+                "author": "Florian Olivo",
+                "thumbnail": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=500&q=80"
+            },
+            {
+                "id": "cyber-6",
+                "url": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1080",
+                "title": "Tech Hub",
+                "author": "Alexandre Debiève",
+                "thumbnail": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=500&q=80"
+            }
+        ]
+    },
+    {
+        "id": "animals",
+        "name": "Animals",
+        "description": "High-quality wallpapers featuring the beauty of the animal kingdom – from majestic wildlife to adorable pets.",
+        "coverImage": "https://images.pexels.com/photos/236599/pexels-photo-236599.jpeg",
+        "wallpapers": [
+            {
+                "id": "animals1",
+                "url": "https://images.pexels.com/photos/372166/pexels-photo-372166.jpeg",
+                "title": "Brown and White Bunny Among Daisies",
+                "author": "Pixabay",
+                "thumbnail": "https://images.pexels.com/photos/372166/pexels-photo-372166.jpeg?auto=compress&cs=tinysrgb&w=500"
+            },
+            {
+                "id": "animals2",
+                "url": "https://images.pexels.com/photos/1131774/pexels-photo-1131774.jpeg",
+                "title": "Bald Eagle in Natural Light",
+                "author": "Andreas Barth",
+                "thumbnail": "https://images.pexels.com/photos/1131774/pexels-photo-1131774.jpeg?auto=compress&cs=tinysrgb&w=500"
+            },
+            {
+                "id": "animals3",
+                "url": "https://images.pexels.com/photos/33045/lion-wild-africa-african.jpg",
+                "title": "Lion Basking in Sunlight",
+                "author": "Pixabay",
+                "thumbnail": "https://images.pexels.com/photos/33045/lion-wild-africa-african.jpg?auto=compress&cs=tinysrgb&w=500"
+            },
+            {
+                "id": "animals4",
+                "url": "https://images.pexels.com/photos/45170/kittens-cat-cat-puppy-rush-45170.jpeg",
+                "title": "Five Kittens on Grass",
+                "author": "Pixabay",
+                "thumbnail": "https://images.pexels.com/photos/45170/kittens-cat-cat-puppy-rush-45170.jpeg?auto=compress&cs=tinysrgb&w=500"
+            },
+            {
+                "id": "animals5",
+                "url": "https://images.pexels.com/photos/1198802/pexels-photo-1198802.jpeg",
+                "title": "Samoyed Dog under Cherry Blossoms",
+                "author": "Cartier",
+                "thumbnail": "https://images.pexels.com/photos/1198802/pexels-photo-1198802.jpeg?auto=compress&cs=tinysrgb&w=500"
+            },
+            {
+                "id": "animals6",
+                "url": "https://images.pexels.com/photos/614545/pexels-photo-614545.jpeg",
+                "title": "Wild Horses in the Mist",
+                "author": "Pixabay",
+                "thumbnail": "https://images.pexels.com/photos/614545/pexels-photo-614545.jpeg?auto=compress&cs=tinysrgb&w=500"
+            }
+        ]
+    },
+    {
+        "id": "cars",
+        "name": "Cars",
+        "description": "A collection of car wallpapers ranging from sleek modern supercars to rugged classics in dynamic settings.",
+        "coverImage": "https://images.pexels.com/photos/39501/lamborghini-brno-racing-car-automobiles-39501.jpeg",
+        "wallpapers": [
+            {
+                "id": "cars1",
+                "url": "https://images.pexels.com/photos/1545743/pexels-photo-1545743.jpeg",
+                "title": "Red Audi R8 on Historic Street",
+                "author": "Mayd",
+                "thumbnail": "https://images.pexels.com/photos/1545743/pexels-photo-1545743.jpeg?auto=compress&cs=tinysrgb&w=500"
+            },
+            {
+                "id": "cars2",
+                "url": "https://images.pexels.com/photos/707046/pexels-photo-707046.jpeg",
+                "title": "White BMW Drifting on Dirt Road",
+                "author": "Trace",
+                "thumbnail": "https://images.pexels.com/photos/707046/pexels-photo-707046.jpeg?auto=compress&cs=tinysrgb&w=500"
+            },
+            {
+                "id": "cars3",
+                "url": "https://images.pexels.com/photos/712618/pexels-photo-712618.jpeg",
+                "title": "Classic Teal Chevy in Havana",
+                "author": "Peely",
+                "thumbnail": "https://images.pexels.com/photos/712618/pexels-photo-712618.jpeg?auto=compress&cs=tinysrgb&w=500"
+            },
+            {
+                "id": "cars4",
+                "url": "https://images.pexels.com/photos/1638459/pexels-photo-1638459.jpeg",
+                "title": "Red Jeep Wrangler in the Desert",
+                "author": "Brett Sayles",
+                "thumbnail": "https://images.pexels.com/photos/1638459/pexels-photo-1638459.jpeg?auto=compress&cs=tinysrgb&w=500"
+            },
+            {
+                "id": "cars5",
+                "url": "https://images.pexels.com/photos/544542/pexels-photo-544542.jpeg",
+                "title": "Red Ford Mustang Front View",
+                "author": "Avinash Patel",
+                "thumbnail": "https://images.pexels.com/photos/544542/pexels-photo-544542.jpeg?auto=compress&cs=tinysrgb&w=500"
+            },
+            {
+                "id": "cars6",
+                "url": "https://images.pexels.com/photos/4150195/pexels-photo-4150195.jpeg",
+                "title": "NYC Skyline Waterfront",
+                "author": "Clive Kim",
+                "thumbnail": "https://images.pexels.com/photos/4150195/pexels-photo-4150195.jpeg?auto=compress&cs=tinysrgb&w=500"
+            }
+        ]
+    },
+    {
+        "id": "fantasy",
+        "name": "Fantasy",
+        "description": "Enchanting wallpapers inspired by magical forests, mythical creatures, and surreal dreamscapes.",
+        "coverImage": "https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg",
+        "wallpapers": [
+            {
+                "id": "fantasy1",
+                "url": "https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg",
+                "title": "Blue Butterflies & Glowing Mushrooms",
+                "author": "Pixabay",
+                "thumbnail": "https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&w=500"
+            },
+            {
+                "id": "fantasy2",
+                "url": "https://images.pexels.com/photos/4256852/pexels-photo-4256852.jpeg",
+                "title": "Man Reading a Glowing Book at Night",
+                "author": "Josh Hild",
+                "thumbnail": "https://images.pexels.com/photos/4256852/pexels-photo-4256852.jpeg?auto=compress&cs=tinysrgb&w=500"
+            },
+            {
+                "id": "fantasy3",
+                "url": "https://images.pexels.com/photos/3922102/pexels-photo-3922102.jpeg",
+                "title": "Witch Costume with a Sword",
+                "author": "Ferdinand Studio",
+                "thumbnail": "https://images.pexels.com/photos/3922102/pexels-photo-3922102.jpeg?auto=compress&cs=tinysrgb&w=500"
+            },
+            {
+                "id": "fantasy4",
+                "url": "https://images.pexels.com/photos/1545585/pexels-photo-1545585.jpeg",
+                "title": "Fairy in the Forest",
+                "author": "Tu Nguyen",
+                "thumbnail": "https://images.pexels.com/photos/1545585/pexels-photo-1545585.jpeg?auto=compress&cs=tinysrgb&w=500"
+            },
+            {
+                "id": "fantasy5",
+                "url": "https://images.pexels.com/photos/3125505/pexels-photo-3125505.jpeg",
+                "title": "Fantasy Costume with Ornate Staff",
+                "author": "See2Believe",
+                "thumbnail": "https://images.pexels.com/photos/3125505/pexels-photo-3125505.jpeg?auto=compress&cs=tinysrgb&w=500"
+            },
+            {
+                "id": "fantasy6",
+                "url": "https://images.pexels.com/photos/5696534/pexels-photo-5696534.jpeg",
+                "title": "Glowing Lantern in a Pink Mist",
+                "author": "IntrospectiveDSGN",
+                "thumbnail": "https://images.pexels.com/photos/5696534/pexels-photo-5696534.jpeg?auto=compress&cs=tinysrgb&w=500"
+            }
+        ]
+    },
+    {
+        "id": "architecture",
+        "name": "Architecture",
+        "description": "Showcasing architectural marvels, from historic landmarks and ornate interiors to modern city skylines and abstract building perspectives.",
+        "coverImage": "https://images.pexels.com/photos/31546001/pexels-photo-31546001.jpeg",
+        "wallpapers": [
+            {
+                "id": "architecture1",
+                "url": "https://images.pexels.com/photos/16230738/pexels-photo-16230738.jpeg",
+                "title": "Whale Skeleton in a Museum",
+                "author": "Adrien Olichon",
+                "thumbnail": "https://images.pexels.com/photos/16230738/pexels-photo-16230738.jpeg?auto=compress&cs=tinysrgb&w=500"
+            },
+            {
+                "id": "architecture2",
+                "url": "https://images.pexels.com/photos/31552871/pexels-photo-31552871.jpeg",
+                "title": "Pont Alexandre III, Paris",
+                "author": "Zacharie Elbaz",
+                "thumbnail": "https://images.pexels.com/photos/31552871/pexels-photo-31552871.jpeg?auto=compress&cs=tinysrgb&w=500"
+            },
+            {
+                "id": "architecture3",
+                "url": "https://images.pexels.com/photos/31546001/pexels-photo-31546001.jpeg",
+                "title": "Bare Branches Against a Red Wall",
+                "author": "Guzel Sadykova",
+                "thumbnail": "https://images.pexels.com/photos/31546001/pexels-photo-31546001.jpeg?auto=compress&cs=tinysrgb&w=500"
+            },
+            {
+                "id": "architecture4",
+                "url": "https://images.pexels.com/photos/4150195/pexels-photo-4150195.jpeg",
+                "title": "NYC Skyline at Night",
+                "author": "Clive Kim",
+                "thumbnail": "https://images.pexels.com/photos/4150195/pexels-photo-4150195.jpeg?auto=compress&cs=tinysrgb&w=500"
+            },
+            {
+                "id": "architecture5",
+                "url": "https://images.pexels.com/photos/3154601/pexels-photo-3154601.jpeg",
+                "title": "Hallstatt Village by the Lake",
+                "author": "Unsplash (TBD)",
+                "thumbnail": "https://images.pexels.com/photos/3154601/pexels-photo-3154601.jpeg?auto=compress&cs=tinysrgb&w=500"
+            },
+            {
+                "id": "architecture6",
+                "url": "https://images.pexels.com/photos/210158/pexels-photo-210158.jpeg",
+                "title": "Looking Up at a Glass Skyscraper",
+                "author": "Unsplash (TBD)",
+                "thumbnail": "https://images.pexels.com/photos/210158/pexels-photo-210158.jpeg?auto=compress&cs=tinysrgb&w=500"
+            }
+        ]
+    },
+    {
+        "id": "vintage",
+        "name": "Vintage",
+        "description": "Nostalgic wallpapers with a vintage vibe featuring antique objects, retro vehicles, classic textures, and scenes that evoke past eras.",
+        "coverImage": "https://images.pexels.com/photos/3014826/pexels-photo-3014826.jpeg",
+        "wallpapers": [
+            {
+                "id": "vintage1",
+                "url": "https://images.pexels.com/photos/6145852/pexels-photo-6145852.jpeg",
+                "title": "Antique Lantern with Candle",
+                "author": "kc22",
+                "thumbnail": "https://images.pexels.com/photos/6145852/pexels-photo-6145852.jpeg?auto=compress&cs=tinysrgb&w=500"
+            },
+            {
+                "id": "vintage2",
+                "url": "https://images.pexels.com/photos/247929/pexels-photo-247929.jpeg",
+                "title": "Vintage Bicycle and Suitcase",
+                "author": "Pixabay",
+                "thumbnail": "https://images.pexels.com/photos/247929/pexels-photo-247929.jpeg?auto=compress&cs=tinysrgb&w=500"
+            },
+            {
+                "id": "vintage3",
+                "url": "https://images.pexels.com/photos/3283098/pexels-photo-3283098.jpeg",
+                "title": "Classic Vintage Car in Autumn",
+                "author": "Alex Chistol",
+                "thumbnail": "https://images.pexels.com/photos/3283098/pexels-photo-3283098.jpeg?auto=compress&cs=tinysrgb&w=500"
+            },
+            {
+                "id": "vintage4",
+                "url": "https://images.pexels.com/photos/3014826/pexels-photo-3014826.jpeg",
+                "title": "Retro Travel Flat Lay",
+                "author": "Technobulka",
+                "thumbnail": "https://images.pexels.com/photos/3014826/pexels-photo-3014826.jpeg?auto=compress&cs=tinysrgb&w=500"
+            },
+            {
+                "id": "vintage5",
+                "url": "https://images.pexels.com/photos/221299/pexels-photo-221299.jpeg",
+                "title": "Classic Vespa at an Old Café",
+                "author": "Pixabay",
+                "thumbnail": "https://images.pexels.com/photos/221299/pexels-photo-221299.jpeg?auto=compress&cs=tinysrgb&w=500"
+            },
+            {
+                "id": "vintage6",
+                "url": "https://images.pexels.com/photos/3339045/pexels-photo-3339045.jpeg",
+                "title": "Vintage Tape Recorder Close-up",
+                "author": "VovaFLAME",
+                "thumbnail": "https://images.pexels.com/photos/3339045/pexels-photo-3339045.jpeg?auto=compress&cs=tinysrgb&w=500"
+            }
+        ]
+    },
+    {
+        "id": "aesthetic",
+        "name": "Aesthetic",
+        "description": "A curated set of aesthetically pleasing wallpapers with soft pastels, cozy scenes, and creative abstract compositions.",
+        "coverImage": "https://images.pexels.com/photos/2310713/pexels-photo-2310713.jpeg",
+        "wallpapers": [
+            {
+                "id": "aesthetic1",
+                "url": "https://images.pexels.com/photos/2310713/pexels-photo-2310713.jpeg",
+                "title": "Pastel Sky with Moon & Clouds",
+                "author": "Eberhard Grossgasteiger",
+                "thumbnail": "https://images.pexels.com/photos/2310713/pexels-photo-2310713.jpeg?auto=compress&cs=tinysrgb&w=500"
+            },
+            {
+                "id": "aesthetic2",
+                "url": "https://images.pexels.com/photos/6405694/pexels-photo-6405694.jpeg",
+                "title": "Soft Pink Sunrise over Beach Waves",
+                "author": "Taryn Elliott",
+                "thumbnail": "https://images.pexels.com/photos/6405694/pexels-photo-6405694.jpeg?auto=compress&cs=tinysrgb&w=500"
+            },
+            {
+                "id": "aesthetic3",
+                "url": "https://images.pexels.com/photos/4862892/pexels-photo-4862892.jpeg",
+                "title": "Light Blue Silk Texture",
+                "author": "Karolina Grabowska",
+                "thumbnail": "https://images.pexels.com/photos/4862892/pexels-photo-4862892.jpeg?auto=compress&cs=tinysrgb&w=500"
+            },
+            {
+                "id": "aesthetic4",
+                "url": "https://images.pexels.com/photos/3045825/pexels-photo-3045825.jpeg",
+                "title": "Vibrant Acrylic Paint Drips",
+                "author": "Dids",
+                "thumbnail": "https://images.pexels.com/photos/3045825/pexels-photo-3045825.jpeg?auto=compress&cs=tinysrgb&w=500"
+            },
+            {
+                "id": "aesthetic5",
+                "url": "https://images.pexels.com/photos/4346325/pexels-photo-4346325.jpeg",
+                "title": "Cozy Coffee with Book & Blossoms",
+                "author": "Ioana Motoc",
+                "thumbnail": "https://images.pexels.com/photos/4346325/pexels-photo-4346325.jpeg?auto=compress&cs=tinysrgb&w=500"
+            },
+            {
+                "id": "aesthetic6",
+                "url": "https://images.pexels.com/photos/1037992/pexels-photo-1037992.jpeg",
+                "title": "Mint Headphones on Pink & Teal Background",
+                "author": "Moose Photos",
+                "thumbnail": "https://images.pexels.com/photos/1037992/pexels-photo-1037992.jpeg?auto=compress&cs=tinysrgb&w=500"
+            }
+        ]
+    }
 ]
