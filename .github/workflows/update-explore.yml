@@ -1,0 +1,30 @@
+name: Update Explore Data
+
+on:
+  schedule:
+    # Runs twice daily at 06:00 and 18:00 UTC
+    - cron: '0 6,18 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-explore:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch explore data from Unsplash
+        env:
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+        run: node fetch-explore.js
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add explore.json
+          git diff --cached --quiet || git commit -m "Update explore data $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
