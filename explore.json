@@ -1,164 +1,164 @@
 {
   "trending": [
     {
-      "id": "unsplash_qUJ8fgoaLTg",
-      "url": "https://images.unsplash.com/photo-1773332611514-238856b76198?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxfHx8fHx8MXx8MTc4MTcyMTk2MHw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1773332611514-238856b76198?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxfHx8fHx8MXx8MTc4MTcyMTk2MHw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Person using a smartphone over a notebook",
+      "id": "unsplash_txZv4HQJRpE",
+      "url": "https://images.unsplash.com/photo-1773332598414-44a45e364d85?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxfHx8fHx8MXx8MTc4MTc2ODE0NHw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1773332598414-44a45e364d85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxfHx8fHx8MXx8MTc4MTc2ODE0NHw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Woman working at a desk with laptop and tablet.",
       "author": "Microsoft Copilot",
-      "dominantColor": "#f3f3f3"
+      "dominantColor": "#a68c73"
     },
     {
-      "id": "unsplash_A-tyzwJLUCg",
-      "url": "https://images.unsplash.com/photo-1763307411452-43cfd9f516ce?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyfHx8fHx8MXx8MTc4MTcyMTk2MHw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1763307411452-43cfd9f516ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyfHx8fHx8MXx8MTc4MTcyMTk2MHw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Collage of various papers, fabric swatches, and images.",
-      "author": "Brooke Balentine",
-      "dominantColor": "#d9c0c0"
+      "id": "unsplash_7TV1KJGY36Q",
+      "url": "https://images.unsplash.com/photo-1780552274457-b4d8da874f96?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyfHx8fHx8MXx8MTc4MTc2ODE0NHw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1780552274457-b4d8da874f96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyfHx8fHx8MXx8MTc4MTc2ODE0NHw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Vast snowfield before rugged mountains with clouds under blue sky.",
+      "author": "Rafael Peier",
+      "dominantColor": "#d9d9d9"
     },
     {
-      "id": "unsplash_AIahhQvov88",
-      "url": "https://images.unsplash.com/photo-1767072528344-3c2716ef7556?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwzfHx8fHx8MXx8MTc4MTcyMTk2MHw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1767072528344-3c2716ef7556?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwzfHx8fHx8MXx8MTc4MTcyMTk2MHw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A red telephone booth stands by a waterfront.",
-      "author": "Dan Begel",
-      "dominantColor": "#d9c08c"
+      "id": "unsplash__GmhiiV9hIQ",
+      "url": "https://images.unsplash.com/photo-1780656094819-b90e8d27fa15?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwzfHx8fHx8MXx8MTc4MTc2ODE0NHw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1780656094819-b90e8d27fa15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwzfHx8fHx8MXx8MTc4MTc2ODE0NHw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Historic lighthouse on vast sand dunes under clear blue sky.",
+      "author": "Max Böhme",
+      "dominantColor": "#f3c08c"
     },
     {
-      "id": "unsplash_jJ-sxA58Or4",
-      "url": "https://images.unsplash.com/photo-1770045517575-a90db8a4cabe?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw0fHx8fHx8MXx8MTc4MTcyMTk2MHw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1770045517575-a90db8a4cabe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw0fHx8fHx8MXx8MTc4MTcyMTk2MHw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Person with camera takes a photo against red background.",
-      "author": "Brooke Balentine",
-      "dominantColor": "#d90c0c"
-    },
-    {
-      "id": "unsplash_qSHMHyjL0Fc",
-      "url": "https://images.unsplash.com/photo-1774173511909-3a9f9ab208cb?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw1fHx8fHx8MXx8MTc4MTcyMTk2MHw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1774173511909-3a9f9ab208cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw1fHx8fHx8MXx8MTc4MTcyMTk2MHw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Mount fuji seen over red kochia bushes",
-      "author": "PJH",
-      "dominantColor": "#c0d9f3"
-    },
-    {
-      "id": "unsplash_naZA08I3Bpk",
-      "url": "https://images.unsplash.com/photo-1776715139722-26b9f0b23b3f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw2fHx8fHx8MXx8MTc4MTcyMTk2MHw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1776715139722-26b9f0b23b3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw2fHx8fHx8MXx8MTc4MTcyMTk2MHw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Woman making tacos with fresh ingredients",
+      "id": "unsplash_fNfCjzJzSHA",
+      "url": "https://images.unsplash.com/photo-1776715139499-136701c5c351?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw0fHx8fHx8MXx8MTc4MTc2ODE0NHw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1776715139499-136701c5c351?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw0fHx8fHx8MXx8MTc4MTc2ODE0NHw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "City skyline with skyscrapers, highway, and train.",
       "author": "Katelyn Warner",
-      "dominantColor": "#260c0c"
+      "dominantColor": "#8cc0d9"
     },
     {
-      "id": "unsplash_TyV7mTMVp9M",
-      "url": "https://images.unsplash.com/photo-1777465492776-a97939a20ec2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw3fHx8fHx8MXx8MTc4MTcyMTk2MHw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1777465492776-a97939a20ec2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw3fHx8fHx8MXx8MTc4MTcyMTk2MHw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A bed of vibrant red tulips and roses.",
-      "author": "Dmytro Bayer",
-      "dominantColor": "#f35926"
+      "id": "unsplash_YNK31vNwP0Q",
+      "url": "https://images.unsplash.com/photo-1777033481153-12ada196dacf?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw1fHx8fHx8MXx8MTc4MTc2ODE0NHw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1777033481153-12ada196dacf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw1fHx8fHx8MXx8MTc4MTc2ODE0NHw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Abstract pattern of light blue and white swirls.",
+      "author": "Pawel Czerwinski",
+      "dominantColor": "#c0d9d9"
+    },
+    {
+      "id": "unsplash_NYsuGDMKffg",
+      "url": "https://images.unsplash.com/photo-1777400547618-2fb8571fb11c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw2fHx8fHx8MXx8MTc4MTc2ODE0NHw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1777400547618-2fb8571fb11c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw2fHx8fHx8MXx8MTc4MTc2ODE0NHw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Modern building with layered balconies at dusk",
+      "author": "Zaki",
+      "dominantColor": "#0c73a6"
+    },
+    {
+      "id": "unsplash_lAaQHu1fNJ8",
+      "url": "https://images.unsplash.com/photo-1777502371973-433e6746bb51?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw3fHx8fHx8MXx8MTc4MTc2ODE0NHw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1777502371973-433e6746bb51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw3fHx8fHx8MXx8MTc4MTc2ODE0NHw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Two men standing on rocks by the ocean",
+      "author": "Martin Baron",
+      "dominantColor": "#59a6c0"
     },
     {
       "id": "unsplash_3c_k7h8YgHw",
-      "url": "https://images.unsplash.com/photo-1773332589460-5a5d43c80f5b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHw4fHx8fHx8MXx8MTc4MTcyMTk2MHw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1773332589460-5a5d43c80f5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHw4fHx8fHx8MXx8MTc4MTcyMTk2MHw&ixlib=rb-4.1.0&q=80&w=400",
+      "url": "https://images.unsplash.com/photo-1773332589460-5a5d43c80f5b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHw4fHx8fHx8MXx8MTc4MTc2ODE0NHw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1773332589460-5a5d43c80f5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHw4fHx8fHx8MXx8MTc4MTc2ODE0NHw&ixlib=rb-4.1.0&q=80&w=400",
       "title": "Two women talking in a kitchen while cooking",
       "author": "Microsoft Copilot",
       "dominantColor": "#8c7359"
     },
     {
-      "id": "unsplash_Ai19ZIc3G7I",
-      "url": "https://images.unsplash.com/photo-1777421234356-55fc6eb9dda9?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw5fHx8fHx8MXx8MTc4MTcyMTk2MHw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1777421234356-55fc6eb9dda9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw5fHx8fHx8MXx8MTc4MTcyMTk2MHw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A close-up of a vibrant red flower in darkness",
-      "author": "磊 周",
-      "dominantColor": "#0c2626"
+      "id": "unsplash_dgabncc2a6E",
+      "url": "https://images.unsplash.com/photo-1777523743687-233bbfdbd894?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw5fHx8fHx8MXx8MTc4MTc2ODE0NHw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1777523743687-233bbfdbd894?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw5fHx8fHx8MXx8MTc4MTc2ODE0NHw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Contax G1 Portra 400",
+      "author": "Zongnan Bao",
+      "dominantColor": "#0c260c"
     },
     {
-      "id": "unsplash_BaaxuvB-Dcc",
-      "url": "https://images.unsplash.com/photo-1777646378295-c121ecfea209?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMHx8fHx8fDF8fDE3ODE3MjE5NjB8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1777646378295-c121ecfea209?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMHx8fHx8fDF8fDE3ODE3MjE5NjB8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Old orange car parked on a street",
-      "author": "Jake Johnson",
-      "dominantColor": "#a6a6a6"
+      "id": "unsplash_mufFwFs3dt8",
+      "url": "https://images.unsplash.com/photo-1777608598673-4a1607636fe9?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMHx8fHx8fDF8fDE3ODE3NjgxNDR8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1777608598673-4a1607636fe9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMHx8fHx8fDF8fDE3ODE3NjgxNDR8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Man walks past a building with red stripes.",
+      "author": "Matthew Jackson",
+      "dominantColor": "#d9d9d9"
     },
     {
-      "id": "unsplash_TR5h-QeMf4o",
-      "url": "https://images.unsplash.com/photo-1777911045377-ca7a2b041ab2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMXx8fHx8fDF8fDE3ODE3MjE5NjB8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1777911045377-ca7a2b041ab2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMXx8fHx8fDF8fDE3ODE3MjE5NjB8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Tattooed legs, neon kicks, blurred stride; that's real track day energy.",
-      "author": "Kenny Leys",
-      "dominantColor": "#c0d9d9"
+      "id": "unsplash_WcM1NjXyj5o",
+      "url": "https://images.unsplash.com/photo-1777715329434-fe4379703852?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMXx8fHx8fDF8fDE3ODE3NjgxNDR8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1777715329434-fe4379703852?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMXx8fHx8fDF8fDE3ODE3NjgxNDR8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Empty soccer stadium with red seats and green field.",
+      "author": "Tanya Barrow",
+      "dominantColor": "#260c0c"
     },
     {
-      "id": "unsplash_UOEe9DxgazM",
-      "url": "https://images.unsplash.com/photo-1777978686067-4d08aa26be36?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMnx8fHx8fDF8fDE3ODE3MjE5NjB8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1777978686067-4d08aa26be36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMnx8fHx8fDF8fDE3ODE3MjE5NjB8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Three friends playing a racing arcade game together",
-      "author": "Christian Agbede",
+      "id": "unsplash_Y4VMzlU2OqQ",
+      "url": "https://images.unsplash.com/photo-1777863073932-a4b8b68732fd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMnx8fHx8fDF8fDE3ODE3NjgxNDR8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1777863073932-a4b8b68732fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMnx8fHx8fDF8fDE3ODE3NjgxNDR8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Two brown horses with white faces in a field.",
+      "author": "Alexander Mass",
+      "dominantColor": "#d9d9d9"
+    },
+    {
+      "id": "unsplash_U6_j6Yz2OPo",
+      "url": "https://images.unsplash.com/photo-1778222238813-1e1f7d325f1f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxM3x8fHx8fDF8fDE3ODE3NjgxNDR8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1778222238813-1e1f7d325f1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxM3x8fHx8fDF8fDE3ODE3NjgxNDR8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Dense green ivy covers a wall",
+      "author": "Pawel Czerwinski",
       "dominantColor": "#26260c"
     },
     {
-      "id": "unsplash_uD-ZbnB1zQU",
-      "url": "https://images.unsplash.com/photo-1779801512134-fe8a86680c4f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxM3x8fHx8fDF8fDE3ODE3MjE5NjB8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1779801512134-fe8a86680c4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxM3x8fHx8fDF8fDE3ODE3MjE5NjB8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "@Lgnwvr | Lgnwvr.com",
-      "author": "LOGAN WEAVER | @LGNWVR",
-      "dominantColor": "#c04040"
-    },
-    {
-      "id": "unsplash_UBGnjoGspN0",
-      "url": "https://images.unsplash.com/photo-1779960965516-4e3a28837108?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNHx8fHx8fDF8fDE3ODE3MjE5NjB8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1779960965516-4e3a28837108?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNHx8fHx8fDF8fDE3ODE3MjE5NjB8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Abstract vertical streaks of white, red, and blue colors.",
-      "author": "Alexander Lunyov",
-      "dominantColor": "#f3d9d9"
-    },
-    {
-      "id": "unsplash_e6W48UPKijo",
-      "url": "https://images.unsplash.com/photo-1773332585749-5146862ba746?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxNXx8fHx8fDF8fDE3ODE3MjE5NjB8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1773332585749-5146862ba746?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxNXx8fHx8fDF8fDE3ODE3MjE5NjB8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Carton of brown eggs on a kitchen counter",
-      "author": "Microsoft Copilot",
-      "dominantColor": "#c0c0a6"
-    },
-    {
-      "id": "unsplash_KjSemLmT_yY",
-      "url": "https://images.unsplash.com/photo-1780592657995-60f814efa4a8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNnx8fHx8fDF8fDE3ODE3MjE5NjB8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1780592657995-60f814efa4a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNnx8fHx8fDF8fDE3ODE3MjE5NjB8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "The Cordillera del Paine at sunrise",
-      "author": "Milan Malfait",
-      "dominantColor": "#262626"
-    },
-    {
-      "id": "unsplash_DwkgQvGF6Ys",
-      "url": "https://images.unsplash.com/photo-1780833527934-c6cc3b2e53d3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxN3x8fHx8fDF8fDE3ODE3MjE5NjB8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1780833527934-c6cc3b2e53d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxN3x8fHx8fDF8fDE3ODE3MjE5NjB8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "White church with red roof in a rural landscape.",
-      "author": "Jean Carlo Emer",
-      "dominantColor": "#408ca6"
-    },
-    {
-      "id": "unsplash_ww_tiKkFGN4",
-      "url": "https://images.unsplash.com/photo-1780789594791-7cfd668c262a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOHx8fHx8fDF8fDE3ODE3MjE5NjB8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1780789594791-7cfd668c262a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOHx8fHx8fDF8fDE3ODE3MjE5NjB8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Vintage red convertible car parked on a sunny city street.",
+      "id": "unsplash_CHXBk2102ac",
+      "url": "https://images.unsplash.com/photo-1778546978395-f27c78370878?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNHx8fHx8fDF8fDE3ODE3NjgxNDR8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1778546978395-f27c78370878?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNHx8fHx8fDF8fDE3ODE3NjgxNDR8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Monument valley rock formations at sunset",
       "author": "Peter Thomas",
       "dominantColor": "#d9d9d9"
     },
     {
-      "id": "unsplash_YnaNafC-6MA",
-      "url": "https://images.unsplash.com/photo-1780589613719-5642667970ec?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOXx8fHx8fDF8fDE3ODE3MjE5NjB8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1780589613719-5642667970ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOXx8fHx8fDF8fDE3ODE3MjE5NjB8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Textured blue ice formation inside a glacier cave.",
-      "author": "Rafael Peier",
-      "dominantColor": "#73a6c0"
+      "id": "unsplash_pqMPnPo4_ZA",
+      "url": "https://images.unsplash.com/photo-1773332611612-ffdaa753afb1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxNXx8fHx8fDF8fDE3ODE3NjgxNDR8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1773332611612-ffdaa753afb1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxNXx8fHx8fDF8fDE3ODE3NjgxNDR8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Man working at desk with laptop and phone.",
+      "author": "Microsoft Copilot",
+      "dominantColor": "#f3f3f3"
     },
     {
-      "id": "unsplash_Qfw7Ig02W14",
-      "url": "https://images.unsplash.com/photo-1781088677117-0295ba846def?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyMHx8fHx8fDF8fDE3ODE3MjE5NjB8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1781088677117-0295ba846def?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyMHx8fHx8fDF8fDE3ODE3MjE5NjB8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Two elderly women walk down a charming old town street.",
-      "author": "Tanya Barrow",
-      "dominantColor": "#a6c0d9"
+      "id": "unsplash_JjqzgWk36NM",
+      "url": "https://images.unsplash.com/photo-1780662751207-a57696f6a46a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNnx8fHx8fDF8fDE3ODE3NjgxNDR8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1780662751207-a57696f6a46a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNnx8fHx8fDF8fDE3ODE3NjgxNDR8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Bedroom with warm wood 3/3 (IG: @clay.banks)",
+      "author": "Clay Banks",
+      "dominantColor": "#c0c0c0"
+    },
+    {
+      "id": "unsplash_gyni7CExVk4",
+      "url": "https://images.unsplash.com/photo-1780995174560-3758c19509ab?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxN3x8fHx8fDF8fDE3ODE3NjgxNDR8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1780995174560-3758c19509ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxN3x8fHx8fDF8fDE3ODE3NjgxNDR8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A train winds through a lush forest with snow-capped mountains.",
+      "author": "David Becker",
+      "dominantColor": "#40400c"
+    },
+    {
+      "id": "unsplash_zbP3Z76zeZo",
+      "url": "https://images.unsplash.com/photo-1780936960045-9d3011df511e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOHx8fHx8fDF8fDE3ODE3NjgxNDR8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1780936960045-9d3011df511e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOHx8fHx8fDF8fDE3ODE3NjgxNDR8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A single yellow kayak tracing the coast along the shallows of Babbacombe, Devon, UK",
+      "author": "Red Zeppelin",
+      "dominantColor": "#0c2626"
+    },
+    {
+      "id": "unsplash_qUol-5gZJxQ",
+      "url": "https://images.unsplash.com/photo-1780789594773-ab675a8a5e47?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOXx8fHx8fDF8fDE3ODE3NjgxNDR8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1780789594773-ab675a8a5e47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOXx8fHx8fDF8fDE3ODE3NjgxNDR8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Arched doorway frames classical statue and potted plants in courtyard.",
+      "author": "Peter Thomas",
+      "dominantColor": "#262626"
+    },
+    {
+      "id": "unsplash_Kb6eI8AIjEU",
+      "url": "https://images.unsplash.com/photo-1780789595436-43ff7aec7e41?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyMHx8fHx8fDF8fDE3ODE3NjgxNDR8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1780789595436-43ff7aec7e41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyMHx8fHx8fDF8fDE3ODE3NjgxNDR8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Ornate interior with religious frescoes, paintings, and arched window.",
+      "author": "Peter Thomas",
+      "dominantColor": "#402626"
     }
   ],
   "topics": [
@@ -167,14 +167,14 @@
       "slug": "wallpapers",
       "title": "Wallpapers",
       "description": "From epic drone shots to inspiring moments in nature — enjoy the best background for your desktop or mobile.\r\n\r\n",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1673326630896-73aee8b9eefc?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1666533184819-e3553963cdb0?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "vyZcIsyHvZ0",
       "slug": "summer",
       "title": "Summer",
       "description": "Experience the warmth of summer through sun-soaked days, coastal escapes, and golden evenings.",
-      "coverPhoto": "https://images.unsplash.com/photo-1777465492776-a97939a20ec2?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1781610871899-9d00c1e81b39?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "CDwuwXJAbEw",
@@ -268,5 +268,5 @@
       "coverPhoto": "https://plus.unsplash.com/premium_vector-1781023457638-ffde19bdf607?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     }
   ],
-  "updatedAt": "2026-06-17T18:46:00.817Z"
+  "updatedAt": "2026-06-18T07:35:45.610Z"
 }
