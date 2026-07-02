@@ -174,7 +174,7 @@
       "slug": "nostalgia",
       "title": "Nostalgia",
       "description": "Capture the feeling of looking back through photography or 3D art for a chance to win $100 USD and be featured. T&amp;Cs apply. Learn more <a href=\"https://unsplash.com/blog/photo-3d-contest-nostalgia/\">here</a>.",
-      "coverPhoto": "https://images.unsplash.com/photo-1633338973647-f38cc9ef9fa4?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://images.unsplash.com/photo-1783001165619-38741be6ce27?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "vyZcIsyHvZ0",
@@ -195,14 +195,14 @@
       "slug": "nature",
       "title": "Nature",
       "description": "This category showcases nature’s beauty, from vast landscapes to macro details, transporting viewers to the outdoors.",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1781122727478-6862cb720259?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://images.unsplash.com/photo-1782807909041-a8557ce3b03e?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "iUIsnVtjB0Y",
       "slug": "textures-patterns",
       "title": "Textures",
       "description": "Whether you’re looking for stunning macro-photography or shots of complex architectural shapes — you’ve come to the right place.",
-      "coverPhoto": "https://images.unsplash.com/photo-1747661380842-9a6d484cde4a?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://images.unsplash.com/photo-1780552286751-174ed5253e6e?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "hmenvQhUmxM",
@@ -251,14 +251,14 @@
       "slug": "illustration-summer",
       "title": "Summer",
       "description": "Capture the essence of summer through illustration, featuring sunlit scenes, warm colour palettes, and playful seasonal moments.",
-      "coverPhoto": "https://plus.unsplash.com/premium_vector-1782308296119-900103fbe0c7?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_vector-1773384047519-b0e8428d9259?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "If65AuNOOxQ",
       "slug": "illustration-wallpapers",
       "title": "Wallpapers",
       "description": "Explore illustrations that are perfect for bringing personality and style to your desktop or mobile background.",
-      "coverPhoto": "https://images.unsplash.com/vector-1782709471346-906eda3d013d?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_vector-1715358041960-191aa26c9449?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "vFcvoGKLoaw",
@@ -268,5 +268,5 @@
       "coverPhoto": "https://plus.unsplash.com/premium_vector-1779752334604-678942f060c6?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     }
   ],
-  "updatedAt": "2026-07-02T07:03:52.756Z"
+  "updatedAt": "2026-07-02T19:10:03.260Z"
 }
