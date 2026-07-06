@@ -1,164 +1,164 @@
 {
   "trending": [
     {
-      "id": "unsplash_q-PLVUhxzbo",
-      "url": "https://images.unsplash.com/photo-1779896411954-9129882c996d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxfHx8fHx8MXx8MTc4MzI3ODE2NHw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1779896411954-9129882c996d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxfHx8fHx8MXx8MTc4MzI3ODE2NHw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Two colleagues collaborating on a laptop in a modern office.",
+      "id": "unsplash_pqMPnPo4_ZA",
+      "url": "https://images.unsplash.com/photo-1773332611612-ffdaa753afb1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxfHx8fHx8MXx8MTc4MzMzMTgwOXw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1773332611612-ffdaa753afb1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxfHx8fHx8MXx8MTc4MzMzMTgwOXw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Man working at desk with laptop and phone.",
+      "author": "Microsoft Copilot",
+      "dominantColor": "#f3f3f3"
+    },
+    {
+      "id": "unsplash_3_0P7rYr4BU",
+      "url": "https://images.unsplash.com/photo-1783112536012-43c8af7badc1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyfHx8fHx8MXx8MTc4MzMzMTgwOXw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1783112536012-43c8af7badc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyfHx8fHx8MXx8MTc4MzMzMTgwOXw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Bride drinking outside pub as woman walks by",
+      "author": "Toa Heftiba",
+      "dominantColor": "#0c260c"
+    },
+    {
+      "id": "unsplash_Z2720kCJg6I",
+      "url": "https://images.unsplash.com/photo-1783081312236-82cc1126d761?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwzfHx8fHx8MXx8MTc4MzMzMTgwOXw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1783081312236-82cc1126d761?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwzfHx8fHx8MXx8MTc4MzMzMTgwOXw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "On one of the hottest days this year in Switzerland, with temperatures close to 38°C, I hiked this mountain. Carrying my camera, tripod, and plenty of water, I climbed around 1,000 meters, knowing the effort would be worth it. At the summit, the heat gave way to a peaceful evening. The light softened, the mountains grew quiet, and the dramatic ridges glowed in the last colors of the day. The moment I pressed the shutter, I knew I had the image I came for. With the photo captured, I enjoyed the hike back down under the light of my headlamp, already looking forward to the final result.",
+      "author": "Pascal Debrunner",
+      "dominantColor": "#0c2626"
+    },
+    {
+      "id": "unsplash_WXaJu2sOxMo",
+      "url": "https://images.unsplash.com/photo-1782177261794-e49e4e64ad25?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw0fHx8fHx8MXx8MTc4MzMzMTgwOXw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1782177261794-e49e4e64ad25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw0fHx8fHx8MXx8MTc4MzMzMTgwOXw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Woman shopping at an outdoor market examining handcrafted items",
+      "author": "Anastase Maragos",
+      "dominantColor": "#c0a68c"
+    },
+    {
+      "id": "unsplash_WVaazjESVuA",
+      "url": "https://images.unsplash.com/photo-1783002933130-a8505999aa5d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw1fHx8fHx8MXx8MTc4MzMzMTgwOXw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1783002933130-a8505999aa5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw1fHx8fHx8MXx8MTc4MzMzMTgwOXw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Wooden house surrounded by tall pine trees in sunlight",
+      "author": "Vitalii Khodzinskyi",
+      "dominantColor": "#262626"
+    },
+    {
+      "id": "unsplash_a5bk3MTVwyU",
+      "url": "https://images.unsplash.com/photo-1783002933086-9bee767a4d32?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw2fHx8fHx8MXx8MTc4MzMzMTgwOXw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1783002933086-9bee767a4d32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw2fHx8fHx8MXx8MTc4MzMzMTgwOXw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Blue ocean meets clear sky at horizon",
+      "author": "Vitalii Khodzinskyi",
+      "dominantColor": "#0c2626"
+    },
+    {
+      "id": "unsplash_CB0D4a5-D4Q",
+      "url": "https://images.unsplash.com/photo-1783313207203-a542ee3b849e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw3fHx8fHx8MXx8MTc4MzMzMTgwOXw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1783313207203-a542ee3b849e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw3fHx8fHx8MXx8MTc4MzMzMTgwOXw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Starry night sky over a serene lake with mountain reflections.",
+      "author": "Gantavya Bhatt",
+      "dominantColor": "#0c2640"
+    },
+    {
+      "id": "unsplash_gRBlPVBz5Zg",
+      "url": "https://images.unsplash.com/photo-1779896412393-25bb58f05547?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHw4fHx8fHx8MXx8MTc4MzMzMTgwOXw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1779896412393-25bb58f05547?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHw4fHx8fHx8MXx8MTc4MzMzMTgwOXw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Stylish man in blue suit uses vintage camera.",
       "author": "Sandisk",
       "dominantColor": "#d9d9d9"
     },
     {
+      "id": "unsplash_ivE84mI3DSo",
+      "url": "https://images.unsplash.com/photo-1783254226055-2112bfed7bbf?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw5fHx8fHx8MXx8MTc4MzMzMTgwOXw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1783254226055-2112bfed7bbf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw5fHx8fHx8MXx8MTc4MzMzMTgwOXw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Title: Spiraea aruncus (Tyrol),Artist: Anna Atkins (British, 1799–1871),Date: 1851–54,Medium: Cyanotype,Dimensions: Image: 35.1 x 24.6 cm (13 13/16 x 9 11/16 in.),Classification: Photographs,Credit Line: Purchase, Alfred Stieglitz Society Gifts, 2004,Object Number: 2004.172,Curatorial Department: Photographs. http://www.metmuseum.org/art/collection/search/285421",
+      "author": "The Metropolitan Museum of Art",
+      "dominantColor": "#4073a6"
+    },
+    {
+      "id": "unsplash_TgFRO4kDSQk",
+      "url": "https://images.unsplash.com/photo-1782046820949-767f7cb0c218?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMHx8fHx8fDF8fDE3ODMzMzE4MDl8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1782046820949-767f7cb0c218?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMHx8fHx8fDF8fDE3ODMzMzE4MDl8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Dry, cracked earth with embedded blue and grey stones.",
+      "author": "Rafael Peier",
+      "dominantColor": "#f3d9d9"
+    },
+    {
+      "id": "unsplash_jbgnfanT8Bw",
+      "url": "https://images.unsplash.com/photo-1782071777327-b3caeb8d7a4b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMXx8fHx8fDF8fDE3ODMzMzE4MDl8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1782071777327-b3caeb8d7a4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMXx8fHx8fDF8fDE3ODMzMzE4MDl8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Venice grand canal at dusk with illuminated buildings and church.",
+      "author": "Rafael Peier",
+      "dominantColor": "#73a6c0"
+    },
+    {
+      "id": "unsplash_ZXdNgg_rgZU",
+      "url": "https://images.unsplash.com/photo-1782046820471-3840f51c74ae?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMnx8fHx8fDF8fDE3ODMzMzE4MDl8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1782046820471-3840f51c74ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMnx8fHx8fDF8fDE3ODMzMzE4MDl8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Lone tree in vast dry grass field under blue sky.",
+      "author": "Rafael Peier",
+      "dominantColor": "#0c73a6"
+    },
+    {
+      "id": "unsplash__PyN0ignfko",
+      "url": "https://images.unsplash.com/photo-1782179284337-fc8319b1960b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxM3x8fHx8fDF8fDE3ODMzMzE4MDl8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1782179284337-fc8319b1960b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxM3x8fHx8fDF8fDE3ODMzMzE4MDl8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Pollonia, greece church overlooking the sea at sunset",
+      "author": "Anastase Maragos",
+      "dominantColor": "#0c2626"
+    },
+    {
+      "id": "unsplash_q-QFgPIZ-_U",
+      "url": "https://images.unsplash.com/photo-1782771116101-0320275aa1b2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNHx8fHx8fDF8fDE3ODMzMzE4MDl8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1782771116101-0320275aa1b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNHx8fHx8fDF8fDE3ODMzMzE4MDl8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Rugged mountain peaks under dramatic cloudy sky.",
+      "author": "Alin Gavriliuc",
+      "dominantColor": "#0c2626"
+    },
+    {
+      "id": "unsplash_pEVjp7yIc2A",
+      "url": "https://images.unsplash.com/photo-1773332598413-a6d5279d1ae8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxNXx8fHx8fDF8fDE3ODMzMzE4MDl8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1773332598413-a6d5279d1ae8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxNXx8fHx8fDF8fDE3ODMzMzE4MDl8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Person working on laptop at a wooden desk.",
+      "author": "Microsoft Copilot",
+      "dominantColor": "#8c7359"
+    },
+    {
+      "id": "unsplash_YgQp2NFkFoo",
+      "url": "https://images.unsplash.com/photo-1783112864674-4f490cf1b19e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNnx8fHx8fDF8fDE3ODMzMzE4MDl8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1783112864674-4f490cf1b19e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNnx8fHx8fDF8fDE3ODMzMzE4MDl8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Couple walking past fire station with double-decker bus",
+      "author": "Toa Heftiba",
+      "dominantColor": "#26260c"
+    },
+    {
+      "id": "unsplash_BcC8oeFwlG8",
+      "url": "https://images.unsplash.com/photo-1783293687673-4f25336373e6?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxN3x8fHx8fDF8fDE3ODMzMzE4MDl8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1783293687673-4f25336373e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxN3x8fHx8fDF8fDE3ODMzMzE4MDl8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Ostrich head and long neck against blue sky",
+      "author": "Vitalii Khodzinskyi",
+      "dominantColor": "#738ca6"
+    },
+    {
+      "id": "unsplash_Bvw8rNl4fD4",
+      "url": "https://images.unsplash.com/photo-1783254226051-0470e7948df0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOHx8fHx8fDF8fDE3ODMzMzE4MDl8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1783254226051-0470e7948df0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOHx8fHx8fDF8fDE3ODMzMzE4MDl8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Title: Schizonema comoides,Artist: Anna Atkins (British, 1799–1871),Date: ca. 1853,Medium: Cyanotype,Dimensions: Image: 25.3 x 20 cm (9 15/16 x 7 7/8 in.),Classification: Photographs,Credit Line: Gilman Collection, Purchase, The Horace W. Goldsmith Foundation Gift, through Joyce and Robert Menschel, 2005,Object Number: 2005.100.557 (153),Curatorial Department: Photographs. http://www.metmuseum.org/art/collection/search/291649",
+      "author": "The Metropolitan Museum of Art",
+      "dominantColor": "#26738c"
+    },
+    {
       "id": "unsplash_6EDezfYu3uk",
-      "url": "https://images.unsplash.com/photo-1579762593217-46655e4e7efc?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyfHx8fHx8MXx8MTc4MzI3ODE2NHw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1579762593217-46655e4e7efc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyfHx8fHx8MXx8MTc4MzI3ODE2NHw&ixlib=rb-4.1.0&q=80&w=400",
+      "url": "https://images.unsplash.com/photo-1579762593217-46655e4e7efc?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOXx8fHx8fDF8fDE3ODMzMzE4MDl8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1579762593217-46655e4e7efc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOXx8fHx8fDF8fDE3ODMzMzE4MDl8&ixlib=rb-4.1.0&q=80&w=400",
       "title": "3 Minute Car Wash -- Van Nuys Blvd. at Burbank\n\nhttps://ark.digitalcommonwealth.org/ark:/50959/x920g6593\n\nPlease visit Digital Commonwealth to view more images: https://www.digitalcommonwealth.org.\n\n ",
       "author": "Boston Public Library",
       "dominantColor": "#73a6c0"
     },
     {
       "id": "unsplash_Ng2UydNj4W8",
-      "url": "https://images.unsplash.com/photo-1739611216842-05e54af86ec7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwzfHx8fHx8MXx8MTc4MzI3ODE2NHw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1739611216842-05e54af86ec7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwzfHx8fHx8MXx8MTc4MzI3ODE2NHw&ixlib=rb-4.1.0&q=80&w=400",
+      "url": "https://images.unsplash.com/photo-1739611216842-05e54af86ec7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyMHx8fHx8fDF8fDE3ODMzMzE4MDl8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1739611216842-05e54af86ec7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyMHx8fHx8fDF8fDE3ODMzMzE4MDl8&ixlib=rb-4.1.0&q=80&w=400",
       "title": "A group of people riding horses down a street",
       "author": "Annie Spratt",
       "dominantColor": "#a6c0c0"
-    },
-    {
-      "id": "unsplash_5IZn_sWzcrQ",
-      "url": "https://images.unsplash.com/photo-1778546979309-d1b70b0d25c2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw0fHx8fHx8MXx8MTc4MzI3ODE2NHw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1778546979309-d1b70b0d25c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw0fHx8fHx8MXx8MTc4MzI3ODE2NHw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Woman on horseback rides towards a large sandstone mesa.",
-      "author": "Peter Thomas",
-      "dominantColor": "#a6c0d9"
-    },
-    {
-      "id": "unsplash_S1vS1KgQCug",
-      "url": "https://images.unsplash.com/photo-1781644444361-b9dcee78b159?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw1fHx8fHx8MXx8MTc4MzI3ODE2NHw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1781644444361-b9dcee78b159?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw1fHx8fHx8MXx8MTc4MzI3ODE2NHw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Close-up of vibrant orange flower petals with dew drops.",
-      "author": "Rafael Peier",
-      "dominantColor": "#407373"
-    },
-    {
-      "id": "unsplash_eZD0eB3TxRg",
-      "url": "https://images.unsplash.com/photo-1782046820445-d2798c847f8f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw2fHx8fHx8MXx8MTc4MzI3ODE2NHw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1782046820445-d2798c847f8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw2fHx8fHx8MXx8MTc4MzI3ODE2NHw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Camper van parked in a desert valley with red mountains.",
-      "author": "Rafael Peier",
-      "dominantColor": "#40260c"
-    },
-    {
-      "id": "unsplash_7U-l0xwVEIQ",
-      "url": "https://images.unsplash.com/photo-1782466239727-7a1ba2f718e4?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw3fHx8fHx8MXx8MTc4MzI3ODE2NHw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1782466239727-7a1ba2f718e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw3fHx8fHx8MXx8MTc4MzI3ODE2NHw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Vintage automatic photobooth with example pictures",
-      "author": "Tanya Barrow",
-      "dominantColor": "#260c0c"
-    },
-    {
-      "id": "unsplash_oTDuuLUhH20",
-      "url": "https://images.unsplash.com/photo-1773332585698-cba3c91b73e4?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHw4fHx8fHx8MXx8MTc4MzI3ODE2NHw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1773332585698-cba3c91b73e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHw4fHx8fHx8MXx8MTc4MzI3ODE2NHw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Person working at desk with laptop and phone.",
-      "author": "Microsoft Copilot",
-      "dominantColor": "#c0a6a6"
-    },
-    {
-      "id": "unsplash_opSJKnjhOac",
-      "url": "https://images.unsplash.com/photo-1782718574077-f64455063149?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw5fHx8fHx8MXx8MTc4MzI3ODE2NHw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1782718574077-f64455063149?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw5fHx8fHx8MXx8MTc4MzI3ODE2NHw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A person pulls long orange fabric along a stone wall.",
-      "author": "Timothy Cohen",
-      "dominantColor": "#d9d9d9"
-    },
-    {
-      "id": "unsplash_58gZhUY9NE8",
-      "url": "https://images.unsplash.com/photo-1782680722663-9b9dfac093ba?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMHx8fHx8fDF8fDE3ODMyNzgxNjR8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1782680722663-9b9dfac093ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMHx8fHx8fDF8fDE3ODMyNzgxNjR8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Man and boy stand on a pier overlooking the ocean.",
-      "author": "Bruno Guerrero",
-      "dominantColor": "#f3f3f3"
-    },
-    {
-      "id": "unsplash_mTs6ONxfm7c",
-      "url": "https://images.unsplash.com/photo-1781739849963-0382a061f05f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMXx8fHx8fDF8fDE3ODMyNzgxNjR8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1781739849963-0382a061f05f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMXx8fHx8fDF8fDE3ODMyNzgxNjR8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Upside Down",
-      "author": "Tim Mossholder",
-      "dominantColor": "#26260c"
-    },
-    {
-      "id": "unsplash_GNBobB8ubqo",
-      "url": "https://images.unsplash.com/photo-1783231754573-b5f6672c70ac?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMnx8fHx8fDF8fDE3ODMyNzgxNjR8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1783231754573-b5f6672c70ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMnx8fHx8fDF8fDE3ODMyNzgxNjR8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Colorful fireworks explode in the dark night sky.",
-      "author": "mana5280",
-      "dominantColor": "#260c0c"
-    },
-    {
-      "id": "unsplash_tOednQ0nl84",
-      "url": "https://images.unsplash.com/photo-1783201475741-398323136581?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxM3x8fHx8fDF8fDE3ODMyNzgxNjR8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1783201475741-398323136581?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxM3x8fHx8fDF8fDE3ODMyNzgxNjR8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Festive van with an inflatable eagle in a patriotic parade.",
-      "author": "Jon Tyson",
-      "dominantColor": "#d9d9c0"
-    },
-    {
-      "id": "unsplash_4a-5UoXRv_o",
-      "url": "https://images.unsplash.com/photo-1783114487521-6425941d7a9b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNHx8fHx8fDF8fDE3ODMyNzgxNjR8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1783114487521-6425941d7a9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNHx8fHx8fDF8fDE3ODMyNzgxNjR8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Long exposure photography",
-      "author": "Sebastian Schuster",
-      "dominantColor": "#d90c0c"
-    },
-    {
-      "id": "unsplash_udRj4qXyAPs",
-      "url": "https://images.unsplash.com/photo-1779896412277-c4fd15c7a89c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxNXx8fHx8fDF8fDE3ODMyNzgxNjR8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1779896412277-c4fd15c7a89c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxNXx8fHx8fDF8fDE3ODMyNzgxNjR8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Smiling man editing video on multiple computer monitors.",
-      "author": "Sandisk",
-      "dominantColor": "#594040"
-    },
-    {
-      "id": "unsplash_FmRq8XrqNos",
-      "url": "https://images.unsplash.com/photo-1782827397217-e84ce8f05a6f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNnx8fHx8fDF8fDE3ODMyNzgxNjR8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1782827397217-e84ce8f05a6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNnx8fHx8fDF8fDE3ODMyNzgxNjR8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Strukturen im Sand",
-      "author": "ruedi häberli",
-      "dominantColor": "#262626"
-    },
-    {
-      "id": "unsplash_WjECuRrxd_c",
-      "url": "https://images.unsplash.com/photo-1781099270897-ca214439f99e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxN3x8fHx8fDF8fDE3ODMyNzgxNjR8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1781099270897-ca214439f99e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxN3x8fHx8fDF8fDE3ODMyNzgxNjR8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "「富嶽三十六景 神奈川沖浪裏」 Title: Under the Wave off Kanagawa (Kanagawa oki nami ura), or The Great Wave, from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei), Artist: Katsushika Hokusai (Japanese, Tokyo (Edo) 1760–1849 Tokyo (Edo)), Period: Edo period (1615–1868), Date: ca. 1830–32, Culture: Japan, Medium: Woodblock print; ink and color on paper, Dimensions: 10 x 15 in. (25.4 x 38.1 cm), Classification: Prints, Credit Line: The Howard Mansfield Collection, Purchase, Rogers Fund, 1936, Object Number: JP2569, Curatorial Department: Asian Art",
-      "author": "The Metropolitan Museum of Art",
-      "dominantColor": "#f3d9c0"
-    },
-    {
-      "id": "unsplash_8HLYshXvQfY",
-      "url": "https://images.unsplash.com/photo-1782397161807-9bab207b6d00?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOHx8fHx8fDF8fDE3ODMyNzgxNjR8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1782397161807-9bab207b6d00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOHx8fHx8fDF8fDE3ODMyNzgxNjR8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A detailed isometric 3D architectural render showcasing a bird's-eye view of an architectural composition with precise geometric design. This isometric visualization was created by Maverickframe studio.",
-      "author": "Maverick Frame",
-      "dominantColor": "#a68c8c"
-    },
-    {
-      "id": "unsplash_aAve9mn9Lr0",
-      "url": "https://images.unsplash.com/photo-1782397088177-2a8593c19bcd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOXx8fHx8fDF8fDE3ODMyNzgxNjR8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1782397088177-2a8593c19bcd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOXx8fHx8fDF8fDE3ODMyNzgxNjR8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A high-quality 3D rendered scene showcasing detailed environment design with precise CGI craftsmanship and vivid artistic composition. This digital visualization was created by Maverickframe studio.",
-      "author": "Maverick Frame",
-      "dominantColor": "#f3f3d9"
-    },
-    {
-      "id": "unsplash_fMaXqPrr-7g",
-      "url": "https://images.unsplash.com/photo-1782537080765-2cc352850846?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyMHx8fHx8fDF8fDE3ODMyNzgxNjR8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1782537080765-2cc352850846?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyMHx8fHx8fDF8fDE3ODMyNzgxNjR8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Warm shadows of a hand, mug, and potted plant.",
-      "author": "Elisa Photography",
-      "dominantColor": "#d9c0a6"
     }
   ],
   "topics": [
@@ -181,7 +181,7 @@
       "slug": "summer",
       "title": "Summer",
       "description": "Experience the warmth of summer through sun-soaked days, coastal escapes, and golden evenings.",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1682535208615-11777d244e3c?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://images.unsplash.com/photo-1782177261794-e49e4e64ad25?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "CDwuwXJAbEw",
@@ -195,7 +195,7 @@
       "slug": "nature",
       "title": "Nature",
       "description": "This category showcases nature’s beauty, from vast landscapes to macro details, transporting viewers to the outdoors.",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1750864970897-9d0c074de816?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://images.unsplash.com/photo-1783002933086-9bee767a4d32?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "iUIsnVtjB0Y",
@@ -209,7 +209,7 @@
       "slug": "film",
       "title": "Film",
       "description": "This category celebrates film's timeless beauty, capturing moments with rich textures and unique colors that define analog photography.",
-      "coverPhoto": "https://images.unsplash.com/photo-1782466239727-7a1ba2f718e4?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://images.unsplash.com/photo-1782470691674-c11e3bf0c4c9?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "M8jVbLbTRws",
@@ -244,7 +244,7 @@
       "slug": "people",
       "title": "People",
       "description": "In this category, photographers capture emotions, cultures, and stories through candid moments and formal portraits.",
-      "coverPhoto": "https://images.unsplash.com/photo-1780545311196-f8b507b08b94?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://images.unsplash.com/photo-1783112536012-43c8af7badc1?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "LlNwoCx4NzM",
@@ -268,5 +268,5 @@
       "coverPhoto": "https://plus.unsplash.com/premium_vector-1778758985965-e14a4ca48982?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     }
   ],
-  "updatedAt": "2026-07-05T19:02:44.639Z"
+  "updatedAt": "2026-07-06T09:56:49.515Z"
 }
