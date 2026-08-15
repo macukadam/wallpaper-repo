@@ -1,164 +1,156 @@
 {
   "trending": [
     {
-      "id": "unsplash_Zcp8xN9DnjM",
-      "url": "https://images.unsplash.com/photo-1773332585815-f106a5d6ed6c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxfHx8fHx8MXx8MTc4NjczMjgzOHw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1773332585815-f106a5d6ed6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxfHx8fHx8MXx8MTc4NjczMjgzOHw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Person working at a desk with a laptop and books.",
+      "id": "unsplash_MJLy1fUvX_w",
+      "url": "https://images.unsplash.com/photo-1773332611613-dbdc64f09807?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxfHx8fHx8MXx8MTc4NjY5MTM4Nnw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1773332611613-dbdc64f09807?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxfHx8fHx8MXx8MTc4NjY5MTM4Nnw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Woman planting a small houseplant in a pot.",
       "author": "Microsoft Copilot",
-      "dominantColor": "#f3f3f3"
+      "dominantColor": "#262626"
     },
     {
-      "id": "unsplash_RAtlfFf3Y_8",
-      "url": "https://images.unsplash.com/photo-1786626919064-d0528ec5ef5e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyfHx8fHx8MXx8MTc4NjczMjgzOHw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1786626919064-d0528ec5ef5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyfHx8fHx8MXx8MTc4NjczMjgzOHw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A dark blue night sky filled with stars framed by silhouetted pine tree tops.",
-      "author": "Daniel Gomez",
-      "dominantColor": "#0c4059"
-    },
-    {
-      "id": "unsplash_i-WLGGm6f0o",
-      "url": "https://images.unsplash.com/photo-1780071611689-55d7b5ace40a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwzfHx8fHx8MXx8MTc4NjczMjgzOHw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1780071611689-55d7b5ace40a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwzfHx8fHx8MXx8MTc4NjczMjgzOHw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Cinematic ✨",
-      "author": "Saeed Isavy",
-      "dominantColor": "#264040"
-    },
-    {
-      "id": "unsplash_oZDypWhABlg",
-      "url": "https://images.unsplash.com/photo-1786658054271-e6885f2cab30?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw0fHx8fHx8MXx8MTc4NjczMjgzOHw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1786658054271-e6885f2cab30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw0fHx8fHx8MXx8MTc4NjczMjgzOHw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A field of sunflowers backlit by low sun in a warm sky.",
-      "author": "Kristaps Ungurs",
-      "dominantColor": "#f3f3f3"
-    },
-    {
-      "id": "unsplash_Uz1W3Pocrso",
-      "url": "https://images.unsplash.com/photo-1786684597547-00633a8faf10?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw1fHx8fHx8MXx8MTc4NjczMjgzOHw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1786684597547-00633a8faf10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw1fHx8fHx8MXx8MTc4NjczMjgzOHw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Late afternoon light cutting across a diner table — ketchup, hot sauce, pink paper napkins and a tin can of cutlery. Shot on 35mm film.",
-      "author": "Seb Reivers",
+      "id": "unsplash_RVc7KCmFRdc",
+      "url": "https://images.unsplash.com/photo-1786628211715-8a4ae8777c9d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyfHx8fHx8MXx8MTc4NjY5MTM4Nnw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1786628211715-8a4ae8777c9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyfHx8fHx8MXx8MTc4NjY5MTM4Nnw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A total solar eclipse with a bright diamond ring effect in the dark sky.",
+      "author": "Rafael Garcin",
       "dominantColor": "#26260c"
     },
     {
-      "id": "unsplash_4ShEFaSeqcY",
-      "url": "https://images.unsplash.com/photo-1786625059950-00529301397c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw2fHx8fHx8MXx8MTc4NjczMjgzOHw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1786625059950-00529301397c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw2fHx8fHx8MXx8MTc4NjczMjgzOHw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A dramatic sunrise over the Shenzhen skyline, viewed across the water. The rising sun casts a long reflection across the dark surface, contrasting with the silhouetted city and mountains beneath a layered sky.",
-      "author": "Cai Fang",
-      "dominantColor": "#264059"
-    },
-    {
-      "id": "unsplash_sHgt2-bgLmI",
-      "url": "https://images.unsplash.com/photo-1786521875143-69012aa33b6e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw3fHx8fHx8MXx8MTc4NjczMjgzOHw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1786521875143-69012aa33b6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw3fHx8fHx8MXx8MTc4NjczMjgzOHw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Shadows of maple leaves cast onto a solid terracotta wall in soft light.",
-      "author": "Pawel Czerwinski",
-      "dominantColor": "#734040"
-    },
-    {
-      "id": "unsplash_1m3nQvYYW_A",
-      "url": "https://images.unsplash.com/photo-1779896412104-0f589e7a4e94?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHw4fHx8fHx8MXx8MTc4NjczMjgzOHw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1779896412104-0f589e7a4e94?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHw4fHx8fHx8MXx8MTc4NjczMjgzOHw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "College students campus - SanDisk - USB On The Go",
-      "author": "Sandisk",
-      "dominantColor": "#737373"
-    },
-    {
-      "id": "unsplash_VT8FfC1n_tk",
-      "url": "https://images.unsplash.com/photo-1786461988792-d4fa97f5a424?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw5fHx8fHx8MXx8MTc4NjczMjgzOHw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1786461988792-d4fa97f5a424?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw5fHx8fHx8MXx8MTc4NjczMjgzOHw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Berlin summer on Kodak Color 100",
-      "author": "Nikita Pishchugin",
-      "dominantColor": "#8ca6c0"
-    },
-    {
-      "id": "unsplash_YsLCEULViPg",
-      "url": "https://images.unsplash.com/photo-1786473354613-1f45539514e9?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMHx8fHx8fDF8fDE3ODY3MzI4Mzh8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1786473354613-1f45539514e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMHx8fHx8fDF8fDE3ODY3MzI4Mzh8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A woman and a child in the doorway of a camper van.",
-      "author": "Vitalii Khodzinskyi",
+      "id": "unsplash_RpY04izMaeo",
+      "url": "https://images.unsplash.com/photo-1786352260444-20539d92fee0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwzfHx8fHx8MXx8MTc4NjY5MTM4Nnw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1786352260444-20539d92fee0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwzfHx8fHx8MXx8MTc4NjY5MTM4Nnw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A narrow hiking trail winding up a grassy slope toward jagged rocky peaks.",
+      "author": "Vadim Matei",
       "dominantColor": "#262626"
     },
     {
-      "id": "unsplash_EB8QZStPYMU",
-      "url": "https://images.unsplash.com/photo-1786626900700-87b5d049eef0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMXx8fHx8fDF8fDE3ODY3MzI4Mzh8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1786626900700-87b5d049eef0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMXx8fHx8fDF8fDE3ODY3MzI4Mzh8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A canoe with a paddle on a calm lake surrounded by mountains.",
-      "author": "Daniel Gomez",
-      "dominantColor": "#d9d9d9"
+      "id": "unsplash_qDFAbbiI_3k",
+      "url": "https://images.unsplash.com/photo-1786604455312-cfb901b9bb01?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw0fHx8fHx8MXx8MTc4NjY5MTM4Nnw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1786604455312-cfb901b9bb01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw0fHx8fHx8MXx8MTc4NjY5MTM4Nnw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A group of people waiting at a street corner in Paris at golden hour.",
+      "author": "Valentin Lacoste",
+      "dominantColor": "#8ca6a6"
     },
     {
-      "id": "unsplash_hmiBAwXGCXY",
-      "url": "https://images.unsplash.com/photo-1786692382298-1c0e0197c527?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMnx8fHx8fDF8fDE3ODY3MzI4Mzh8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1786692382298-1c0e0197c527?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMnx8fHx8fDF8fDE3ODY3MzI4Mzh8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A partial solar eclipse with a glowing crescent sun against a dark sky.",
-      "author": "Krisztian Tabori",
+      "id": "unsplash_6tkk1zTPnA4",
+      "url": "https://images.unsplash.com/photo-1786599049448-d8dbb433b9fd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw1fHx8fHx8MXx8MTc4NjY5MTM4Nnw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1786599049448-d8dbb433b9fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw1fHx8fHx8MXx8MTc4NjY5MTM4Nnw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Summer hike",
+      "author": "Alex Ramon",
+      "dominantColor": "#c0d9d9"
+    },
+    {
+      "id": "unsplash_zqVOhpb6yK4",
+      "url": "https://images.unsplash.com/photo-1786603735052-fb4223ee82ed?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw2fHx8fHx8MXx8MTc4NjY5MTM4Nnw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1786603735052-fb4223ee82ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw2fHx8fHx8MXx8MTc4NjY5MTM4Nnw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A partial solar eclipse glowing behind dark, textured clouds in a warm sky.",
+      "author": "Kristians Greckis",
+      "dominantColor": "#40260c"
+    },
+    {
+      "id": "unsplash_iaqCjdC4El8",
+      "url": "https://images.unsplash.com/photo-1779896412430-b9ea6a9e742d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHw3fHx8fHx8MXx8MTc4NjY5MTM4Nnw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1779896412430-b9ea6a9e742d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHw3fHx8fHx8MXx8MTc4NjY5MTM4Nnw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Hand inserting xbox memory card into portable gaming device.",
+      "author": "Sandisk",
+      "dominantColor": "#262626"
+    },
+    {
+      "id": "unsplash_skjEA99chRM",
+      "url": "https://images.unsplash.com/photo-1786604455312-dcced2fda0a8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw4fHx8fHx8MXx8MTc4NjY5MTM4Nnw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1786604455312-dcced2fda0a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw4fHx8fHx8MXx8MTc4NjY5MTM4Nnw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A man and a woman standing by a car on a street in Paris.",
+      "author": "Valentin Lacoste",
       "dominantColor": "#260c0c"
     },
     {
-      "id": "unsplash_Rba26h4iAYA",
-      "url": "https://images.unsplash.com/photo-1786476432866-68b9ca2e9ff9?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxM3x8fHx8fDF8fDE3ODY3MzI4Mzh8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1786476432866-68b9ca2e9ff9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxM3x8fHx8fDF8fDE3ODY3MzI4Mzh8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A person walking through a narrow stone alleyway in Dubrovnik, Croatia.",
-      "author": "Dawid Tkocz",
-      "dominantColor": "#8c7340"
+      "id": "unsplash_bhYJ6wiySbw",
+      "url": "https://images.unsplash.com/photo-1786607943845-e8eb102a8d60?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw5fHx8fHx8MXx8MTc4NjY5MTM4Nnw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1786607943845-e8eb102a8d60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw5fHx8fHx8MXx8MTc4NjY5MTM4Nnw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A crescent sun partially obscured by dark clouds in a dim sky.",
+      "author": "Francesco Ungaro",
+      "dominantColor": "#260c0c"
     },
     {
-      "id": "unsplash_Enw0ngKSz-U",
-      "url": "https://images.unsplash.com/photo-1786366562970-0fdd109196d0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNHx8fHx8fDF8fDE3ODY3MzI4Mzh8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1786366562970-0fdd109196d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNHx8fHx8fDF8fDE3ODY3MzI4Mzh8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A pineapple cocktail with crushed ice, a straw, and mint on a wooden table.",
-      "author": "Arlind Photography",
-      "dominantColor": "#402626"
+      "id": "unsplash_9D6n3nNrf6M",
+      "url": "https://images.unsplash.com/photo-1786604455363-5001cd5575b6?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMHx8fHx8fDF8fDE3ODY2OTEzODZ8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1786604455363-5001cd5575b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMHx8fHx8fDF8fDE3ODY2OTEzODZ8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A group of people in golden hour light holding eclipse glasses outside a building.",
+      "author": "Valentin Lacoste",
+      "dominantColor": "#d9a659"
     },
     {
-      "id": "unsplash_8UnGiO4yesk",
-      "url": "https://images.unsplash.com/photo-1773332585687-85beb4da71ab?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxNXx8fHx8fDF8fDE3ODY3MzI4Mzh8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1773332585687-85beb4da71ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxNXx8fHx8fDF8fDE3ODY3MzI4Mzh8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Woman working at desk with coffee",
-      "author": "Microsoft Copilot",
-      "dominantColor": "#c0a68c"
-    },
-    {
-      "id": "unsplash_G1jzmDzfjzY",
-      "url": "https://images.unsplash.com/photo-1786628211870-9a3e7f8f1840?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNnx8fHx8fDF8fDE3ODY3MzI4Mzh8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1786628211870-9a3e7f8f1840?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNnx8fHx8fDF8fDE3ODY3MzI4Mzh8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A total solar eclipse with a bright corona against a dark sky.",
-      "author": "Rafael Garcin",
+      "id": "unsplash_BymZvGYaCEI",
+      "url": "https://images.unsplash.com/photo-1786418289048-9fc9839f6b40?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMXx8fHx8fDF8fDE3ODY2OTEzODZ8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1786418289048-9fc9839f6b40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMXx8fHx8fDF8fDE3ODY2OTEzODZ8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Vinyl records in crates and on display shelves in a music store.",
+      "author": "Ivett M",
       "dominantColor": "#262626"
     },
     {
-      "id": "unsplash_eeq4VYT4Ueo",
-      "url": "https://images.unsplash.com/photo-1786148270993-f610fd5c8bc1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxN3x8fHx8fDF8fDE3ODY3MzI4Mzh8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1786148270993-f610fd5c8bc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxN3x8fHx8fDF8fDE3ODY3MzI4Mzh8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A close portrait of a white-tailed buck in velvet, photographed against a soft golden background.",
-      "author": "Dmytro Koplyk",
-      "dominantColor": "#8c7340"
+      "id": "unsplash_Yi7yrMdzc_M",
+      "url": "https://images.unsplash.com/photo-1786566226523-4eaac261ceed?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMnx8fHx8fDF8fDE3ODY2OTEzODZ8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1786566226523-4eaac261ceed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMnx8fHx8fDF8fDE3ODY2OTEzODZ8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Partial solar eclipse over England, August 12, 2026 — the sun in shadow, captured in a dark, minimal frame.",
+      "author": "Ed Wingate",
+      "dominantColor": "#260c0c"
     },
     {
-      "id": "unsplash_j-kAS_8M70g",
-      "url": "https://images.unsplash.com/photo-1778336513648-95a6394bbc9c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOHx8fHx8fDF8fDE3ODY3MzI4Mzh8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1778336513648-95a6394bbc9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOHx8fHx8fDF8fDE3ODY3MzI4Mzh8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "K-Street Addition - Edge Mann Studio, 2017",
-      "author": "João Emanuel",
-      "dominantColor": "#a68c59"
+      "id": "unsplash_YYyGTaVFdhQ",
+      "url": "https://images.unsplash.com/photo-1786575509053-c04eff30cc62?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxM3x8fHx8fDF8fDE3ODY2OTEzODZ8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1786575509053-c04eff30cc62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxM3x8fHx8fDF8fDE3ODY2OTEzODZ8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A gold alloy wheel with a black brake caliper on a sports car.",
+      "author": "Luke Miller",
+      "dominantColor": "#c08c59"
     },
     {
-      "id": "unsplash_PH11LOBW4Yw",
-      "url": "https://images.unsplash.com/photo-1786421989386-b837648204d9?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOXx8fHx8fDF8fDE3ODY3MzI4Mzh8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1786421989386-b837648204d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOXx8fHx8fDF8fDE3ODY3MzI4Mzh8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Clouds illuminated by warm golden light against a soft blue sky.",
-      "author": "Katya Azimova",
-      "dominantColor": "#737373"
+      "id": "unsplash_txZv4HQJRpE",
+      "url": "https://images.unsplash.com/photo-1773332598414-44a45e364d85?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxNHx8fHx8fDF8fDE3ODY2OTEzODZ8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1773332598414-44a45e364d85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxNHx8fHx8fDF8fDE3ODY2OTEzODZ8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Woman working at a desk with laptop and tablet.",
+      "author": "Microsoft Copilot",
+      "dominantColor": "#a68c73"
     },
     {
-      "id": "unsplash_enlYHTSTkwg",
-      "url": "https://images.unsplash.com/photo-1786366065220-f4a8be5cefcd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyMHx8fHx8fDF8fDE3ODY3MzI4Mzh8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1786366065220-f4a8be5cefcd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyMHx8fHx8fDF8fDE3ODY3MzI4Mzh8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A person holding a white starfish against their leg near a harbor.",
-      "author": "Nataliya Melnychuk",
-      "dominantColor": "#d9a68c"
+      "id": "unsplash_xKY4ZHJDITA",
+      "url": "https://images.unsplash.com/photo-1786614840853-ab60bacc1cd2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNXx8fHx8fDF8fDE3ODY2OTEzODZ8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1786614840853-ab60bacc1cd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNXx8fHx8fDF8fDE3ODY2OTEzODZ8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "The Milky Way galaxy glowing above the silhouettes of dark forest trees.",
+      "author": "Niklas König",
+      "dominantColor": "#264059"
+    },
+    {
+      "id": "unsplash_1gNXOld1NIs",
+      "url": "https://images.unsplash.com/photo-1786604455370-497707936bd1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNnx8fHx8fDF8fDE3ODY2OTEzODZ8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1786604455370-497707936bd1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNnx8fHx8fDF8fDE3ODY2OTEzODZ8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A person in a green shirt standing outside a building during golden hour.",
+      "author": "Valentin Lacoste",
+      "dominantColor": "#260c0c"
+    },
+    {
+      "id": "unsplash_VHz0PPJ8hvg",
+      "url": "https://images.unsplash.com/photo-1786563983078-7a6d4812d457?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxN3x8fHx8fDF8fDE3ODY2OTEzODZ8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1786563983078-7a6d4812d457?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxN3x8fHx8fDF8fDE3ODY2OTEzODZ8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A bright crescent sun with a faint reflection against a black sky.",
+      "author": "Tom Swinnen",
+      "dominantColor": "#260c0c"
+    },
+    {
+      "id": "unsplash_ppGD0Yb-lDg",
+      "url": "https://images.unsplash.com/photo-1786604455350-9abb1ea7328c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOHx8fHx8fDF8fDE3ODY2OTEzODZ8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1786604455350-9abb1ea7328c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOHx8fHx8fDF8fDE3ODY2OTEzODZ8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A woman wearing eclipse glasses on a city street during the golden hour.",
+      "author": "Valentin Lacoste",
+      "dominantColor": "#262626"
+    },
+    {
+      "id": "unsplash_BYxJ8C4WIT0",
+      "url": "https://images.unsplash.com/photo-1786604455323-ae53ea141b3a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOXx8fHx8fDF8fDE3ODY2OTEzODZ8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1786604455323-ae53ea141b3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOXx8fHx8fDF8fDE3ODY2OTEzODZ8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A group of people wearing solar eclipse glasses on a sunlit city street.",
+      "author": "Valentin Lacoste",
+      "dominantColor": "#262626"
     }
   ],
   "topics": [
@@ -167,84 +159,84 @@
       "slug": "wallpapers",
       "title": "Wallpapers",
       "description": "From epic drone shots to inspiring moments in nature — enjoy the best background for your desktop or mobile.\r\n\r\n",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1665657351435-96c58da04fd1?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1786052407355-dd20c0c8959e?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "vyZcIsyHvZ0",
       "slug": "summer",
       "title": "Summer",
       "description": "Experience the warmth of summer through sun-soaked days, coastal escapes, and golden evenings.",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1676692121412-028bfb8371b7?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1691434474131-01f982a2dab1?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "CDwuwXJAbEw",
       "slug": "3d-renders",
       "title": "3D Renders",
       "description": "This category showcases digitally rendered creations that blend technology and art, exploring the limitless potential of digital creativity.",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1679486070749-312669bb23b6?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1786559976347-978e74765353?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "6sMVjTLSkeQ",
       "slug": "nature",
       "title": "Nature",
       "description": "This category showcases nature’s beauty, from vast landscapes to macro details, transporting viewers to the outdoors.",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1723291846204-4aa828a8b08a?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1739198859373-34b3ee45ecda?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "iUIsnVtjB0Y",
       "slug": "textures-patterns",
       "title": "Textures",
       "description": "Whether you’re looking for stunning macro-photography or shots of complex architectural shapes — you’ve come to the right place.",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1723200799246-39d0c474e6d9?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1777041842392-68780b9564c1?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "hmenvQhUmxM",
       "slug": "film",
       "title": "Film",
       "description": "This category celebrates film's timeless beauty, capturing moments with rich textures and unique colors that define analog photography.",
-      "coverPhoto": "https://images.unsplash.com/photo-1786599141873-542e677c25c1?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://images.unsplash.com/photo-1786173071061-e47b0df235c9?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "M8jVbLbTRws",
       "slug": "architecture-interior",
       "title": "Architecture",
       "description": "Celebrating the artistry of spaces, this category highlights stunning photography of architecture and interiors. ",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1732410903106-3379bbe6e9db?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1734543942834-cb37d523d911?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "xHxYTMHLgOc",
       "slug": "street-photography",
       "title": "Street Photography",
       "description": "From quiet passages in charming towns to the hustle and bustle of cities, this category examines street photography in every form.\r\n",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1786551854261-1554b61c0fc1?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://images.unsplash.com/photo-1786604455312-cfb901b9bb01?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "qPYsDzvJOYc",
       "slug": "experimental",
       "title": "Experimental",
       "description": "This category invites photographers to explore new techniques and perspectives, pushing creative boundaries.",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1786551854204-32fd59a37b86?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1786488723385-d48fbc146306?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "Fzo3zuOHN6w",
       "slug": "travel",
       "title": "Travel",
       "description": "Explore the globe through captivating landscapes and vibrant cultures in this Travel category, celebrating diverse destinations worldwide.",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1785668954238-2b5b0468334d?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1764184694009-2320379af938?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "towJZFskpGg",
       "slug": "people",
       "title": "People",
       "description": "In this category, photographers capture emotions, cultures, and stories through candid moments and formal portraits.",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1786138114450-3ec7f974fa3d?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1786422188817-fbfd473782d2?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "fUEpgIBiEtc",
       "slug": "pattern-play",
       "title": "Pattern Play",
       "description": "Design bold, creative vector illustrations inspired by patterns for a chance to win $100 USD and be featured. T&amp;Cs apply. Learn more <a href=\"https://unsplash.com/blog/illustration-contest/\">here</a>.",
-      "coverPhoto": "https://images.unsplash.com/vector-1786602957632-b203aed4ec31?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://images.unsplash.com/vector-1786499060566-5f62d268c888?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "LlNwoCx4NzM",
@@ -258,7 +250,7 @@
       "slug": "illustration-wallpapers",
       "title": "Wallpapers",
       "description": "Explore illustrations that are perfect for bringing personality and style to your desktop or mobile background.",
-      "coverPhoto": "https://plus.unsplash.com/premium_vector-1780307667718-8d04869f2f72?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_vector-1754299090482-e25f4a49baf9?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "vFcvoGKLoaw",
@@ -268,5 +260,5 @@
       "coverPhoto": "https://plus.unsplash.com/premium_vector-1779212660769-79b2cfebae65?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     }
   ],
-  "updatedAt": "2026-08-14T18:40:38.401Z"
+  "updatedAt": "2026-08-15T06:20:55.414Z"
 }
