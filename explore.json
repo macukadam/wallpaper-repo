@@ -1,164 +1,164 @@
 {
   "trending": [
     {
-      "id": "unsplash_8NzMimEZAno",
-      "url": "https://images.unsplash.com/photo-1779896412244-aed1d2f8bed2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxfHx8fHx8MXx8MTc4NzI5Mzc2MXw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1779896412244-aed1d2f8bed2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxfHx8fHx8MXx8MTc4NzI5Mzc2MXw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Young man using laptop and camera on sofa",
-      "author": "Sandisk",
-      "dominantColor": "#d9d9d9"
-    },
-    {
-      "id": "unsplash_nRBdFNKvD-4",
-      "url": "https://images.unsplash.com/photo-1786101638791-d183c2e9fad0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyfHx8fHx8MXx8MTc4NzI5Mzc2MXw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1786101638791-d183c2e9fad0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyfHx8fHx8MXx8MTc4NzI5Mzc2MXw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A view through a doorway into a sunlit bedroom with a made bed",
-      "author": "moniek van rosse",
-      "dominantColor": "#404040"
-    },
-    {
-      "id": "unsplash_aNTKiXl115k",
-      "url": "https://images.unsplash.com/photo-1786380166906-a9e25720a1dc?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwzfHx8fHx8MXx8MTc4NzI5Mzc2MXw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1786380166906-a9e25720a1dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwzfHx8fHx8MXx8MTc4NzI5Mzc2MXw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A lighthouse glowing on a dark cliff above the ocean at dusk",
-      "author": "Gabriel Hohenstein",
-      "dominantColor": "#a6a6a6"
-    },
-    {
-      "id": "unsplash_TNqmMxTkxaM",
-      "url": "https://images.unsplash.com/photo-1786380167127-3ed7129aaf6a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw0fHx8fHx8MXx8MTc4NzI5Mzc2MXw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1786380167127-3ed7129aaf6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw0fHx8fHx8MXx8MTc4NzI5Mzc2MXw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A low-angle view of a modern skyscraper with a grid of windows",
-      "author": "Gabriel Hohenstein",
-      "dominantColor": "#a6a6a6"
-    },
-    {
-      "id": "unsplash_RuMyySjV6qc",
-      "url": "https://images.unsplash.com/photo-1786815889365-06ade6672cbf?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw1fHx8fHx8MXx8MTc4NzI5Mzc2MXw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1786815889365-06ade6672cbf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw1fHx8fHx8MXx8MTc4NzI5Mzc2MXw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A person in a white dress on a curved staircase in a derelict building",
-      "author": "Peter Herrmann",
-      "dominantColor": "#262626"
-    },
-    {
-      "id": "unsplash_17Ld1llPTfM",
-      "url": "https://images.unsplash.com/photo-1787076699305-9dc78e266f33?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw2fHx8fHx8MXx8MTc4NzI5Mzc2MXw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1787076699305-9dc78e266f33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw2fHx8fHx8MXx8MTc4NzI5Mzc2MXw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Title: Rabbits under the Moon, Peonies, and Hollyhocks,Artist: Formerly attributed to Ogata Kōrin (Japanese, 1658–1716),Period: Edo period (1615–1868),Date: 19th century,Culture: Japan,Medium: Set of three matted paintings; ink and color on paper,Dimensions: 39 7/16 x 14 3/16 in. (100.2 x 36 cm),Classification: Paintings,Credit Line: Gift of Francis Lathrop, 1908,Object Number: 08.148.1–.3,Curatorial Department: Asian Art",
-      "author": "The Metropolitan Museum of Art",
-      "dominantColor": "#8c8c8c"
-    },
-    {
-      "id": "unsplash_txzbJfDbC0I",
-      "url": "https://images.unsplash.com/photo-1786879024013-80b287321600?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw3fHx8fHx8MXx8MTc4NzI5Mzc2MXw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1786879024013-80b287321600?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw3fHx8fHx8MXx8MTc4NzI5Mzc2MXw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Raindrops on a window pane with the silhouette of a palm leaf behind",
-      "author": "Kristina Bekher",
-      "dominantColor": "#262626"
-    },
-    {
-      "id": "unsplash_7R3PqLcVnzQ",
-      "url": "https://images.unsplash.com/photo-1773332598501-f8612761781a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHw4fHx8fHx8MXx8MTc4NzI5Mzc2MXw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1773332598501-f8612761781a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHw4fHx8fHx8MXx8MTc4NzI5Mzc2MXw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Person holding phone near laptop and tablet on desk",
+      "id": "unsplash_3c_k7h8YgHw",
+      "url": "https://images.unsplash.com/photo-1773332589460-5a5d43c80f5b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxfHx8fHx8MXx8MTc4NzMzNjU2NXw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1773332589460-5a5d43c80f5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxfHx8fHx8MXx8MTc4NzMzNjU2NXw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Two women talking in a kitchen while cooking",
       "author": "Microsoft Copilot",
-      "dominantColor": "#262626"
+      "dominantColor": "#8c7359"
     },
     {
-      "id": "unsplash_hOP2CQ9dGWg",
-      "url": "https://images.unsplash.com/photo-1786878966640-c3133c9a00a3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw5fHx8fHx8MXx8MTc4NzI5Mzc2MXw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1786878966640-c3133c9a00a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw5fHx8fHx8MXx8MTc4NzI5Mzc2MXw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A person with long hair and glasses reaching toward the camera",
-      "author": "Kristina Bekher",
-      "dominantColor": "#d9d9d9"
-    },
-    {
-      "id": "unsplash_x-wmJ_IurGw",
-      "url": "https://images.unsplash.com/photo-1786604216367-3c85f96157c0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMHx8fHx8fDF8fDE3ODcyOTM3NjF8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1786604216367-3c85f96157c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMHx8fHx8fDF8fDE3ODcyOTM3NjF8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A black and white landscape of a forested hillside overlooking a calm sea",
-      "author": "Tom Macret",
-      "dominantColor": "#d9d9d9"
-    },
-    {
-      "id": "unsplash_PtCILZw-e4Y",
-      "url": "https://images.unsplash.com/photo-1786396151144-35e60c436981?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMXx8fHx8fDF8fDE3ODcyOTM3NjF8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1786396151144-35e60c436981?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMXx8fHx8fDF8fDE3ODcyOTM3NjF8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "The snow-covered upper slopes of Kebnekaise emerge through pale Arctic light during the final part of the ascent. The glacier-shaped terrain and windswept snow create an almost minimalist landscape high above Swedish Lapland. Kebnekaise is Sweden’s highest mountain and one of the northernmost peaks in “The Crown of Europe” series.",
-      "author": "Gabriela",
-      "dominantColor": "#73a6c0"
-    },
-    {
-      "id": "unsplash_rr8bSU2PPog",
-      "url": "https://images.unsplash.com/photo-1787226958395-fd12537d061a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMnx8fHx8fDF8fDE3ODcyOTM3NjF8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1787226958395-fd12537d061a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMnx8fHx8fDF8fDE3ODcyOTM3NjF8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "People looking out from a ferry window at a city waterfront with graffiti",
-      "author": "Tolga Ahmetler",
-      "dominantColor": "#260c0c"
-    },
-    {
-      "id": "unsplash_cCmj0YhF9Do",
-      "url": "https://images.unsplash.com/photo-1787058130169-7024625dcdac?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxM3x8fHx8fDF8fDE3ODcyOTM3NjF8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1787058130169-7024625dcdac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxM3x8fHx8fDF8fDE3ODcyOTM3NjF8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A narrow stone alleyway shaded by white fabric canopies and hanging woven lanterns",
-      "author": "Denis Gorbuleac",
+      "id": "unsplash_zO0le9E7Ono",
+      "url": "https://images.unsplash.com/photo-1787240663846-598e1033a919?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyfHx8fHx8MXx8MTc4NzMzNjU2NXw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1787240663846-598e1033a919?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyfHx8fHx8MXx8MTc4NzMzNjU2NXw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A group of people hiking on a trail toward a large mountain peak",
+      "author": "Benjamin Chambon",
       "dominantColor": "#f3f3f3"
     },
     {
-      "id": "unsplash_Jkmi0xUQztw",
-      "url": "https://images.unsplash.com/photo-1787125588024-7b7546813fb2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNHx8fHx8fDF8fDE3ODcyOTM3NjF8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1787125588024-7b7546813fb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNHx8fHx8fDF8fDE3ODcyOTM3NjF8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A woman in a pink hijab using a phone at a Berlin subway station",
-      "author": "Georgi Kalaydzhiev",
+      "id": "unsplash__WWflXx-zMQ",
+      "url": "https://images.unsplash.com/photo-1787057857057-de005ca82478?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwzfHx8fHx8MXx8MTc4NzMzNjU2NXw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1787057857057-de005ca82478?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwzfHx8fHx8MXx8MTc4NzMzNjU2NXw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A woman in a white top with a cross necklace lying on concrete",
+      "author": "David Banjo",
+      "dominantColor": "#0c2626"
+    },
+    {
+      "id": "unsplash_7NQD34xtZT8",
+      "url": "https://images.unsplash.com/photo-1787238347889-be19be24c8f5?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw0fHx8fHx8MXx8MTc4NzMzNjU2NXw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1787238347889-be19be24c8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw0fHx8fHx8MXx8MTc4NzMzNjU2NXw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "An Atlantic puffin with a colorful beak on a grassy cliff edge",
+      "author": "Benjamin Chambon",
+      "dominantColor": "#262626"
+    },
+    {
+      "id": "unsplash_BSMx7Tudo5I",
+      "url": "https://images.unsplash.com/photo-1787242184238-a7713decb1ff?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw1fHx8fHx8MXx8MTc4NzMzNjU2NXw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1787242184238-a7713decb1ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw1fHx8fHx8MXx8MTc4NzMzNjU2NXw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A paved road with yellow lines through a dense forest filled with thick fog",
+      "author": "Dylan Taylor",
       "dominantColor": "#26260c"
     },
     {
-      "id": "unsplash_kbxrWfh_UWM",
-      "url": "https://images.unsplash.com/photo-1779896411902-66844f1a3b38?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxNXx8fHx8fDF8fDE3ODcyOTM3NjF8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1779896411902-66844f1a3b38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxNXx8fHx8fDF8fDE3ODcyOTM3NjF8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Person photographs small pictures on a white wall with phone",
+      "id": "unsplash_bH-Pov-6wx4",
+      "url": "https://images.unsplash.com/photo-1786999100475-7fce5e9b60c9?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw2fHx8fHx8MXx8MTc4NzMzNjU2NXw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1786999100475-7fce5e9b60c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw2fHx8fHx8MXx8MTc4NzMzNjU2NXw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "An aerial view of a lighthouse on a stone breakwater surrounded by dark water",
+      "author": "Matthias Morize",
+      "dominantColor": "#0c2626"
+    },
+    {
+      "id": "unsplash_dbIJoD3aTuc",
+      "url": "https://images.unsplash.com/photo-1786977740883-efde738401ee?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw3fHx8fHx8MXx8MTc4NzMzNjU2NXw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1786977740883-efde738401ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw3fHx8fHx8MXx8MTc4NzMzNjU2NXw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A group of orange and white koi fish swimming in dark water",
+      "author": "Manuel Bechis",
+      "dominantColor": "#260c0c"
+    },
+    {
+      "id": "unsplash_sO4bLEabDfg",
+      "url": "https://images.unsplash.com/photo-1779896412278-178627c16258?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHw4fHx8fHx8MXx8MTc4NzMzNjU2NXw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1779896412278-178627c16258?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHw4fHx8fHx8MXx8MTc4NzMzNjU2NXw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Spilled red bag contents next to white boots on concrete",
       "author": "Sandisk",
-      "dominantColor": "#d9d9d9"
+      "dominantColor": "#a6a68c"
     },
     {
-      "id": "unsplash_pcT8mfj3xAA",
-      "url": "https://images.unsplash.com/photo-1787125587994-079af90b985d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNnx8fHx8fDF8fDE3ODcyOTM3NjF8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1787125587994-079af90b985d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNnx8fHx8fDF8fDE3ODcyOTM3NjF8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A red bench in front of the Studio-Kino Babylon cinema in Berlin",
-      "author": "Georgi Kalaydzhiev",
-      "dominantColor": "#f3d9c0"
+      "id": "unsplash_XbeNe7UfWIo",
+      "url": "https://images.unsplash.com/photo-1787163427371-321e46e2a7a3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw5fHx8fHx8MXx8MTc4NzMzNjU2NXw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1787163427371-321e46e2a7a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw5fHx8fHx8MXx8MTc4NzMzNjU2NXw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A lake surrounded by green mountains and small villages under a clear sky",
+      "author": "Julian Kraus",
+      "dominantColor": "#c0c0c0"
     },
     {
-      "id": "unsplash_q1WtkPjHmJM",
-      "url": "https://images.unsplash.com/photo-1787163519918-ce37e9c240e9?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxN3x8fHx8fDF8fDE3ODcyOTM3NjF8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1787163519918-ce37e9c240e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxN3x8fHx8fDF8fDE3ODcyOTM3NjF8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Pink Garden Rose",
-      "author": "Mike Cox",
-      "dominantColor": "#d9c0c0"
+      "id": "unsplash_UE5KXNJlvc4",
+      "url": "https://images.unsplash.com/photo-1787159905291-804d723bbc6b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMHx8fHx8fDF8fDE3ODczMzY1NjV8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1787159905291-804d723bbc6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMHx8fHx8fDF8fDE3ODczMzY1NjV8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A smiling child wearing blue arm floaties and goggles in a swimming pool",
+      "author": "Janay Peters",
+      "dominantColor": "#c0c0c0"
     },
     {
-      "id": "unsplash_amrQhXZWtYE",
-      "url": "https://images.unsplash.com/photo-1786698857774-b419fb121391?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOHx8fHx8fDF8fDE3ODcyOTM3NjF8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1786698857774-b419fb121391?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOHx8fHx8fDF8fDE3ODcyOTM3NjF8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Long exposure star trails over a snow-capped mountain peak at night",
-      "author": "Batuhan Doğan",
-      "dominantColor": "#73738c"
+      "id": "unsplash_xvnPgm6lnAs",
+      "url": "https://images.unsplash.com/photo-1787237876710-286560d4ff2f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMXx8fHx8fDF8fDE3ODczMzY1NjV8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1787237876710-286560d4ff2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMXx8fHx8fDF8fDE3ODczMzY1NjV8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Swimming Pool 2/2 (IG: @clay.banks)",
+      "author": "Clay Banks",
+      "dominantColor": "#c0d9d9"
     },
     {
-      "id": "unsplash_01k_oAMpt7E",
-      "url": "https://images.unsplash.com/photo-1786813717492-b79ec9602556?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOXx8fHx8fDF8fDE3ODcyOTM3NjF8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1786813717492-b79ec9602556?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOXx8fHx8fDF8fDE3ODcyOTM3NjF8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Sunflowers in a field backlit by the warm glow of low sun",
-      "author": "Kristaps Ungurs",
+      "id": "unsplash_l3Aln8gdgI4",
+      "url": "https://images.unsplash.com/photo-1785294476332-642cbb69e90d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMnx8fHx8fDF8fDE3ODczMzY1NjV8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1785294476332-642cbb69e90d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMnx8fHx8fDF8fDE3ODczMzY1NjV8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Vast sandy beach with ocean waves and rolling dunes",
+      "author": "Emily Irene Photo Co.",
+      "dominantColor": "#8ca6a6"
+    },
+    {
+      "id": "unsplash_LVh8fI3O7g0",
+      "url": "https://images.unsplash.com/photo-1787001251207-e719ac4e17eb?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxM3x8fHx8fDF8fDE3ODczMzY1NjV8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1787001251207-e719ac4e17eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxM3x8fHx8fDF8fDE3ODczMzY1NjV8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A modern building facade with three triangular gables and rows of rectangular windows",
+      "author": "Pawel Czerwinski",
+      "dominantColor": "#738c8c"
+    },
+    {
+      "id": "unsplash_mCKwr_A3PUg",
+      "url": "https://images.unsplash.com/photo-1787239461066-f9b654b6d88d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNHx8fHx8fDF8fDE3ODczMzY1NjV8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1787239461066-f9b654b6d88d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNHx8fHx8fDF8fDE3ODczMzY1NjV8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Macro view of trapped air bubbles inside a block of clear ice",
+      "author": "Benjamin Chambon",
+      "dominantColor": "#405959"
+    },
+    {
+      "id": "unsplash_s_JJOnsIChs",
+      "url": "https://images.unsplash.com/photo-1773332598289-ed0444ad1d6f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxNXx8fHx8fDF8fDE3ODczMzY1NjV8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1773332598289-ed0444ad1d6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxNXx8fHx8fDF8fDE3ODczMzY1NjV8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Person working on laptop at wooden table with breakfast",
+      "author": "Microsoft Copilot",
+      "dominantColor": "#40260c"
+    },
+    {
+      "id": "unsplash_l3Pvd4M3Css",
+      "url": "https://images.unsplash.com/photo-1787170426598-858e57c774dd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNnx8fHx8fDF8fDE3ODczMzY1NjV8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1787170426598-858e57c774dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNnx8fHx8fDF8fDE3ODczMzY1NjV8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Low sun with lens flare over a forested valley and granite cliffs in Yosemite",
+      "author": "Priyank Pathak",
       "dominantColor": "#f3f3f3"
     },
     {
-      "id": "unsplash_f_--pj2IyOk",
-      "url": "https://images.unsplash.com/photo-1786886351097-cf96d8cbb4d4?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyMHx8fHx8fDF8fDE3ODcyOTM3NjF8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1786886351097-cf96d8cbb4d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyMHx8fHx8fDF8fDE3ODcyOTM3NjF8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Photoshoot for a homestager https://simabuzzinga.ru",
-      "author": "Aleksandra Dementeva",
-      "dominantColor": "#c0c0c0"
+      "id": "unsplash_LXUo6doT0sw",
+      "url": "https://images.unsplash.com/photo-1787226964761-f7040ee3f980?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxN3x8fHx8fDF8fDE3ODczMzY1NjV8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1787226964761-f7040ee3f980?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxN3x8fHx8fDF8fDE3ODczMzY1NjV8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A man in a white kufi leaning against a blue bridge support over water",
+      "author": "Tolga Ahmetler",
+      "dominantColor": "#59738c"
+    },
+    {
+      "id": "unsplash_v1CC-_TSjbA",
+      "url": "https://images.unsplash.com/photo-1787239179212-34efa6984e43?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOHx8fHx8fDF8fDE3ODczMzY1NjV8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1787239179212-34efa6984e43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOHx8fHx8fDF8fDE3ODczMzY1NjV8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A cylindrical tower with tiled walls illuminated by a glowing circular light fixture",
+      "author": "Shahabudin Ibragimov",
+      "dominantColor": "#0c2626"
+    },
+    {
+      "id": "unsplash_n0Kr2QY1oiU",
+      "url": "https://images.unsplash.com/photo-1786048309986-9ca1285eeb3a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOXx8fHx8fDF8fDE3ODczMzY1NjV8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1786048309986-9ca1285eeb3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOXx8fHx8fDF8fDE3ODczMzY1NjV8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "White cliffs towering over the ocean with a distant buoy",
+      "author": "Tomás Robertson",
+      "dominantColor": "#d9d9d9"
+    },
+    {
+      "id": "unsplash_Dq3nCkBV7wo",
+      "url": "https://images.unsplash.com/photo-1787297867680-dcd7276f6141?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyMHx8fHx8fDF8fDE3ODczMzY1NjV8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1787297867680-dcd7276f6141?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyMHx8fHx8fDF8fDE3ODczMzY1NjV8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A modern building facade with large windows and potted plants in black and white",
+      "author": "Pawel Czerwinski",
+      "dominantColor": "#8c8c8c"
     }
   ],
   "topics": [
@@ -167,14 +167,14 @@
       "slug": "wallpapers",
       "title": "Wallpapers",
       "description": "From epic drone shots to inspiring moments in nature — enjoy the best background for your desktop or mobile.\r\n\r\n",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1725381042084-b6d0330d7813?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1673601435394-e706acdd277c?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "vyZcIsyHvZ0",
       "slug": "summer",
       "title": "Summer",
       "description": "Experience the warmth of summer through sun-soaked days, coastal escapes, and golden evenings.",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1786872309957-329539bd4688?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1787114515269-07d03e50efa5?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "CDwuwXJAbEw",
@@ -188,85 +188,85 @@
       "slug": "nature",
       "title": "Nature",
       "description": "This category showcases nature’s beauty, from vast landscapes to macro details, transporting viewers to the outdoors.",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1764519699671-171dbb706a54?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1784294424588-fe03d16bbfa0?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "iUIsnVtjB0Y",
       "slug": "textures-patterns",
       "title": "Textures",
       "description": "Whether you’re looking for stunning macro-photography or shots of complex architectural shapes — you’ve come to the right place.",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1786306038040-c0b5af417031?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1786693047023-056694af00c0?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "hmenvQhUmxM",
       "slug": "film",
       "title": "Film",
       "description": "This category celebrates film's timeless beauty, capturing moments with rich textures and unique colors that define analog photography.",
-      "coverPhoto": "https://images.unsplash.com/photo-1786879024002-92800374c7d3?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1787038182778-c42a8e57537f?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "M8jVbLbTRws",
       "slug": "architecture-interior",
       "title": "Architecture",
       "description": "Celebrating the artistry of spaces, this category highlights stunning photography of architecture and interiors. ",
-      "coverPhoto": "https://images.unsplash.com/photo-1782685217862-934abd28e3d9?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1691030924968-e21848eb55ba?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "xHxYTMHLgOc",
       "slug": "street-photography",
       "title": "Street Photography",
       "description": "From quiet passages in charming towns to the hustle and bustle of cities, this category examines street photography in every form.\r\n",
-      "coverPhoto": "https://images.unsplash.com/photo-1783428261779-fddd73b8f339?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1775211726089-b703fc1c78a1?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "qPYsDzvJOYc",
       "slug": "experimental",
       "title": "Experimental",
       "description": "This category invites photographers to explore new techniques and perspectives, pushing creative boundaries.",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1762287623484-fd1e4b4c9b09?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1747851400213-5140b43aee3b?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "Fzo3zuOHN6w",
       "slug": "travel",
       "title": "Travel",
       "description": "Explore the globe through captivating landscapes and vibrant cultures in this Travel category, celebrating diverse destinations worldwide.",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1783100974590-1a86aa1e2ab7?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1690372792203-04e67de71e19?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "towJZFskpGg",
       "slug": "people",
       "title": "People",
       "description": "In this category, photographers capture emotions, cultures, and stories through candid moments and formal portraits.",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1784986033597-dada8a20ea89?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1786820730441-ec5d34196724?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "fUEpgIBiEtc",
       "slug": "pattern-play",
       "title": "Pattern Play",
       "description": "Design bold, creative vector illustrations inspired by patterns for a chance to win $100 USD and be featured. T&amp;Cs apply. Learn more <a href=\"https://unsplash.com/blog/illustration-contest/\">here</a>.",
-      "coverPhoto": "https://images.unsplash.com/vector-1787157693765-3788ed1ff9ee?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://images.unsplash.com/vector-1787227638123-4bdc76df05ee?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "LlNwoCx4NzM",
       "slug": "illustration-summer",
       "title": "Summer",
       "description": "Capture the essence of summer through illustration, featuring sunlit scenes, warm colour palettes, and playful seasonal moments.",
-      "coverPhoto": "https://plus.unsplash.com/premium_vector-1741781606734-2ae14ae94570?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_vector-1776373023016-c8a4b656074a?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "If65AuNOOxQ",
       "slug": "illustration-wallpapers",
       "title": "Wallpapers",
       "description": "Explore illustrations that are perfect for bringing personality and style to your desktop or mobile background.",
-      "coverPhoto": "https://images.unsplash.com/vector-1751377728946-f6c04a2b836b?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_vector-1771282884896-f62529020ff4?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "vFcvoGKLoaw",
       "slug": "illustration-business-tech",
       "title": "Business & Tech",
       "description": "Concept-driven illustrations that visualize modern work, technology, innovation, and digital life.",
-      "coverPhoto": "https://plus.unsplash.com/premium_vector-1779212660769-79b2cfebae65?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_vector-1776436718823-279d060bf596?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     }
   ],
-  "updatedAt": "2026-08-21T06:29:21.564Z"
+  "updatedAt": "2026-08-21T18:22:45.427Z"
 }
