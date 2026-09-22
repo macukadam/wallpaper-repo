@@ -1,156 +1,164 @@
 {
   "trending": [
     {
-      "id": "unsplash_WenbkhpNLCc",
-      "url": "https://images.unsplash.com/photo-1779896412630-9a636f67e0f1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxfHx8fHx8MXx8MTc5MDAyNTk0M3w&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1779896412630-9a636f67e0f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxfHx8fHx8MXx8MTc5MDAyNTk0M3w&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Friends spending time together",
-      "author": "Sandisk",
-      "dominantColor": "#262626"
-    },
-    {
-      "id": "unsplash_BBgYmTy1GHo",
-      "url": "https://images.unsplash.com/photo-1789742203875-23af095ad5e2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyfHx8fHx8MXx8MTc5MDAyNTk0M3w&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1789742203875-23af095ad5e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyfHx8fHx8MXx8MTc5MDAyNTk0M3w&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "The vertical Chicago Theatre marquee sign above a street in Chicago",
-      "author": "Dmitry Kropachev",
-      "dominantColor": "#c0c0c0"
-    },
-    {
-      "id": "unsplash_AD-DI3T_G-o",
-      "url": "https://images.unsplash.com/photo-1789374803554-e7f505c6ad6d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwzfHx8fHx8MXx8MTc5MDAyNTk0M3w&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1789374803554-e7f505c6ad6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwzfHx8fHx8MXx8MTc5MDAyNTk0M3w&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A crowd of people holding up smartphones to photograph the Mona Lisa in Paris",
-      "author": "Maria Ivanova",
-      "dominantColor": "#26260c"
-    },
-    {
-      "id": "unsplash_xo2CcjfHe8A",
-      "url": "https://images.unsplash.com/photo-1789186720474-823cc707132a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw0fHx8fHx8MXx8MTc5MDAyNTk0M3w&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1789186720474-823cc707132a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw0fHx8fHx8MXx8MTc5MDAyNTk0M3w&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Abstract vertical motion blur of sailboat masts and warm light reflecting on water",
-      "author": "Kevin Grieve",
-      "dominantColor": "#f3f3f3"
-    },
-    {
-      "id": "unsplash_v1uN0dlA9HA",
-      "url": "https://images.unsplash.com/photo-1789159787893-c65644ad24c4?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw1fHx8fHx8MXx8MTc5MDAyNTk0M3w&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1789159787893-c65644ad24c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw1fHx8fHx8MXx8MTc5MDAyNTk0M3w&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Dark storm clouds illuminated by a vibrant orange and yellow sky",
-      "author": "Bruno BD",
-      "dominantColor": "#260c0c"
-    },
-    {
-      "id": "unsplash_chFFBa4mIqQ",
-      "url": "https://images.unsplash.com/photo-1789131866141-161cb2774e8d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw2fHx8fHx8MXx8MTc5MDAyNTk0M3w&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1789131866141-161cb2774e8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw2fHx8fHx8MXx8MTc5MDAyNTk0M3w&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Two people in silhouette walking along a beach under a low sun",
-      "author": "Nataliya Melnychuk",
-      "dominantColor": "#c0c0c0"
-    },
-    {
-      "id": "unsplash_VVqwAplQ9NU",
-      "url": "https://images.unsplash.com/photo-1789303225087-8307ece66da3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw3fHx8fHx8MXx8MTc5MDAyNTk0M3w&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1789303225087-8307ece66da3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw3fHx8fHx8MXx8MTc5MDAyNTk0M3w&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A yellow apartment building facade with multiple balconies and colorful wooden shutters",
-      "author": "Pawel Czerwinski",
+      "id": "unsplash_oTDuuLUhH20",
+      "url": "https://images.unsplash.com/photo-1773332585698-cba3c91b73e4?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxfHx8fHx8MXx8MTc5MDA3MzM5NHw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1773332585698-cba3c91b73e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxfHx8fHx8MXx8MTc5MDA3MzM5NHw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Person working at desk with laptop and phone",
+      "author": "Microsoft Copilot",
       "dominantColor": "#c0a6a6"
     },
     {
-      "id": "unsplash_71ig274jGpw",
-      "url": "https://images.unsplash.com/photo-1773332585956-2d0e8ac80cb6?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHw4fHx8fHx8MXx8MTc5MDAyNTk0M3w&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1773332585956-2d0e8ac80cb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHw4fHx8fHx8MXx8MTc5MDAyNTk0M3w&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Woman working on laptop on bed with snacks and books",
-      "author": "Microsoft Copilot",
+      "id": "unsplash_ywFIm7uev64",
+      "url": "https://images.unsplash.com/photo-1789738336901-f14661b6cdf3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyfHx8fHx8MXx8MTc5MDA3MzM5NHw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1789738336901-f14661b6cdf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyfHx8fHx8MXx8MTc5MDA3MzM5NHw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Sometimes depart means apart.",
+      "author": "Pang Yuhao",
+      "dominantColor": "#d9c0a6"
+    },
+    {
+      "id": "unsplash_iLAhdMqWnDE",
+      "url": "https://images.unsplash.com/photo-1789369422029-ddd5643435cd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwzfHx8fHx8MXx8MTc5MDA3MzM5NHw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1789369422029-ddd5643435cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwzfHx8fHx8MXx8MTc5MDA3MzM5NHw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Mackinac Island, Michigan, surrounded by the waters of Lake Huron and known for its historic Victorian architecture, horse-drawn carriages, waterfront streets, and timeless island atmosphere. These photographs capture the distinctive character of one of Michigan’s most picturesque destinations, where historic buildings, natural landscapes, and everyday island life come together. Follow me on Instagram for more travel, city, architecture, and film photography: @martinoire",
+      "author": "Martin Makaryan",
       "dominantColor": "#262626"
     },
     {
-      "id": "unsplash_kxE7KegcD1o",
-      "url": "https://images.unsplash.com/photo-1789845839410-006feccb1357?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw5fHx8fHx8MXx8MTc5MDAyNTk0M3w&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1789845839410-006feccb1357?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw5fHx8fHx8MXx8MTc5MDAyNTk0M3w&ixlib=rb-4.1.0&q=80&w=400",
+      "id": "unsplash_zZDl5AzoYeI",
+      "url": "https://images.unsplash.com/photo-1789659529347-f8f3318745da?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw0fHx8fHx8MXx8MTc5MDA3MzM5NHw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1789659529347-f8f3318745da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw0fHx8fHx8MXx8MTc5MDA3MzM5NHw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Soft dappled light and shadows of leaves on a brown brick wall",
+      "author": "Pawel Czerwinski",
+      "dominantColor": "#a67340"
+    },
+    {
+      "id": "unsplash_PNjqynaPaaQ",
+      "url": "https://images.unsplash.com/photo-1789521407194-32acbf3ab66b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw1fHx8fHx8MXx8MTc5MDA3MzM5NHw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1789521407194-32acbf3ab66b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw1fHx8fHx8MXx8MTc5MDA3MzM5NHw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Hands framing a view of a green coastline with cliffs and ocean waves",
+      "author": "Petra Reid",
+      "dominantColor": "#f3f3f3"
+    },
+    {
+      "id": "unsplash__fmKYpc1fEI",
+      "url": "https://images.unsplash.com/photo-1789921360069-3fcaf48bfe02?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw2fHx8fHx8MXx8MTc5MDA3MzM5NHw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1789921360069-3fcaf48bfe02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw2fHx8fHx8MXx8MTc5MDA3MzM5NHw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "apple iphone 18 pro in glacier blue",
+      "author": "Daniel Akselrod",
+      "dominantColor": "#26260c"
+    },
+    {
+      "id": "unsplash_VLeo-kvveJs",
+      "url": "https://images.unsplash.com/photo-1767705117001-69647f409c61?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw3fHx8fHx8MXx8MTc5MDA3MzM5NHw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1767705117001-69647f409c61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw3fHx8fHx8MXx8MTc5MDA3MzM5NHw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A person holding a lit cigarette near an ashtray",
+      "author": "Alina Chernovolova",
+      "dominantColor": "#262626"
+    },
+    {
+      "id": "unsplash_txpShNF64u8",
+      "url": "https://images.unsplash.com/photo-1779896412033-a488b4472745?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHw4fHx8fHx8MXx8MTc5MDA3MzM5NHw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1779896412033-a488b4472745?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHw4fHx8fHx8MXx8MTc5MDA3MzM5NHw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Friends outdoor together",
+      "author": "Sandisk",
+      "dominantColor": "#262626"
+    },
+    {
+      "id": "unsplash_ezAEL7GUIt0",
+      "url": "https://images.unsplash.com/photo-1789953067753-6a1fcefe07d8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw5fHx8fHx8MXx8MTc5MDA3MzM5NHw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1789953067753-6a1fcefe07d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw5fHx8fHx8MXx8MTc5MDA3MzM5NHw&ixlib=rb-4.1.0&q=80&w=400",
       "title": "Untitled",
-      "author": "Marek Piwnicki",
-      "dominantColor": "#404040"
+      "author": "Kellen Riggin",
+      "dominantColor": "#735940"
     },
     {
-      "id": "unsplash_2_ZkvN2edO0",
-      "url": "https://images.unsplash.com/photo-1789742204296-f9a1aa12c4c5?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMHx8fHx8fDF8fDE3OTAwMjU5NDN8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1789742204296-f9a1aa12c4c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMHx8fHx8fDF8fDE3OTAwMjU5NDN8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "The Tiffany dome in the Chicago Cultural Center with intricate stained glass and marble",
-      "author": "Dmitry Kropachev",
-      "dominantColor": "#594026"
-    },
-    {
-      "id": "unsplash_EkDocFx2KU4",
-      "url": "https://images.unsplash.com/photo-1789742203869-97f5023556b5?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMXx8fHx8fDF8fDE3OTAwMjU5NDN8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1789742203869-97f5023556b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMXx8fHx8fDF8fDE3OTAwMjU5NDN8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A CTA train on elevated tracks passing a red brick building in Chicago",
-      "author": "Dmitry Kropachev",
+      "id": "unsplash_f2CPkHubfLc",
+      "url": "https://images.unsplash.com/photo-1789879481729-e38abda18e79?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMHx8fHx8fDF8fDE3OTAwNzMzOTR8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1789879481729-e38abda18e79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMHx8fHx8fDF8fDE3OTAwNzMzOTR8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Untitled",
+      "author": "Jamo Images",
       "dominantColor": "#a6c0c0"
     },
     {
-      "id": "unsplash_6h-Q01ufosA",
-      "url": "https://images.unsplash.com/photo-1789811838705-3aca432ab986?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMnx8fHx8fDF8fDE3OTAwMjU5NDN8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1789811838705-3aca432ab986?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMnx8fHx8fDF8fDE3OTAwMjU5NDN8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Tote bags and small pouches hanging on a wire grid in a bookstore",
-      "author": "tommao wang",
-      "dominantColor": "#a68c73"
+      "id": "unsplash_blfURFGM5MM",
+      "url": "https://images.unsplash.com/photo-1789924171795-e68f735b90ce?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMXx8fHx8fDF8fDE3OTAwNzMzOTR8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1789924171795-e68f735b90ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMXx8fHx8fDF8fDE3OTAwNzMzOTR8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Untitled",
+      "author": "Thomas Chizzali",
+      "dominantColor": "#8ca6a6"
     },
     {
-      "id": "unsplash_DdeW2zONYU0",
-      "url": "https://images.unsplash.com/photo-1789866221796-8fa4b54bddf9?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxM3x8fHx8fDF8fDE3OTAwMjU5NDN8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1789866221796-8fa4b54bddf9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxM3x8fHx8fDF8fDE3OTAwMjU5NDN8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Little Island Public Space and Performance Stage in Manhattan, New York City.",
-      "author": "Toan Chu",
+      "id": "unsplash_WxpqWTDGS9Q",
+      "url": "https://images.unsplash.com/photo-1788801246836-7885e34eb33e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMnx8fHx8fDF8fDE3OTAwNzMzOTR8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1788801246836-7885e34eb33e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMnx8fHx8fDF8fDE3OTAwNzMzOTR8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A person with long dark hair touching their forehead against a blue background",
+      "author": "Alina Chernovolova",
+      "dominantColor": "#598ca6"
+    },
+    {
+      "id": "unsplash_CZy5qMP6X7A",
+      "url": "https://images.unsplash.com/photo-1784131164413-849ec9f15608?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxM3x8fHx8fDF8fDE3OTAwNzMzOTR8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1784131164413-849ec9f15608?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxM3x8fHx8fDF8fDE3OTAwNzMzOTR8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Title: A Rocky Coast, Artist: William Trost Richards (American, Philadelphia, Pennsylvania 1833–1905 Newport, Rhode Island), Date: 1877, Culture: American, Medium: Watercolor and gouache on fibrous brown wove paper, Dimensions: 28 1/8 x 36 1/4 in. (71.4 x 92.1 cm), Credit Line: Catharine Lorillard Wolfe Collection, Bequest of Catharine Lorillard Wolfe, 1887, Object Number: 87.15.6, Curatorial Department: The American Wing",
+      "author": "The Metropolitan Museum of Art",
+      "dominantColor": "#595940"
+    },
+    {
+      "id": "unsplash_D6XGEjOAaOQ",
+      "url": "https://images.unsplash.com/photo-1787285723039-bd3b6abc78b5?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNHx8fHx8fDF8fDE3OTAwNzMzOTR8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1787285723039-bd3b6abc78b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNHx8fHx8fDF8fDE3OTAwNzMzOTR8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Dried brown wildflower stalks against a soft grey misty background",
+      "author": "Spencer Liao",
+      "dominantColor": "#8c8c8c"
+    },
+    {
+      "id": "unsplash_s_JJOnsIChs",
+      "url": "https://images.unsplash.com/photo-1773332598289-ed0444ad1d6f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxNXx8fHx8fDF8fDE3OTAwNzMzOTR8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1773332598289-ed0444ad1d6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxNXx8fHx8fDF8fDE3OTAwNzMzOTR8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Person working on laptop at wooden table with breakfast",
+      "author": "Microsoft Copilot",
       "dominantColor": "#40260c"
     },
     {
-      "id": "unsplash_WCdI4Kx9UVM",
-      "url": "https://images.unsplash.com/photo-1789742203815-e98da1562329?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNHx8fHx8fDF8fDE3OTAwMjU5NDN8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1789742203815-e98da1562329?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNHx8fHx8fDF8fDE3OTAwMjU5NDN8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A vintage black car driving past Tempo Cafe on a city street",
-      "author": "Dmitry Kropachev",
-      "dominantColor": "#a6a68c"
+      "id": "unsplash_K_JK5mpSLl0",
+      "url": "https://images.unsplash.com/photo-1670781601343-74a4737c22ac?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNnx8fHx8fDF8fDE3OTAwNzMzOTR8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1670781601343-74a4737c22ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNnx8fHx8fDF8fDE3OTAwNzMzOTR8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "a neon sign in a dark room",
+      "author": "Lucas Chizzali",
+      "dominantColor": "#260c0c"
     },
     {
-      "id": "unsplash_BiN7U2lF53A",
-      "url": "https://images.unsplash.com/photo-1779896411967-c35d5dade32f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxNXx8fHx8fDF8fDE3OTAwMjU5NDN8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1779896411967-c35d5dade32f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxNXx8fHx8fDF8fDE3OTAwMjU5NDN8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Two people collaborating on a laptop in a bright room",
-      "author": "Sandisk",
-      "dominantColor": "#d9d9d9"
-    },
-    {
-      "id": "unsplash_0Utk4uFSavk",
-      "url": "https://images.unsplash.com/photo-1789909113402-78cdde040dbc?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNnx8fHx8fDF8fDE3OTAwMjU5NDN8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1789909113402-78cdde040dbc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNnx8fHx8fDF8fDE3OTAwMjU5NDN8&ixlib=rb-4.1.0&q=80&w=400",
+      "id": "unsplash_kRsmqrQsICQ",
+      "url": "https://images.unsplash.com/photo-1789930271947-60f28f4b8079?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxN3x8fHx8fDF8fDE3OTAwNzMzOTR8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1789930271947-60f28f4b8079?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxN3x8fHx8fDF8fDE3OTAwNzMzOTR8&ixlib=rb-4.1.0&q=80&w=400",
       "title": "Untitled",
-      "author": "Hugh Whyte",
-      "dominantColor": "#d9d9d9"
-    },
-    {
-      "id": "unsplash_rlLfGZji2DQ",
-      "url": "https://images.unsplash.com/photo-1789898418533-18e26f125abd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxN3x8fHx8fDF8fDE3OTAwMjU5NDN8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1789898418533-18e26f125abd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxN3x8fHx8fDF8fDE3OTAwMjU5NDN8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Untitled",
-      "author": "Dmytro Bayer",
-      "dominantColor": "#260c26"
-    },
-    {
-      "id": "unsplash_QdmGCx2_IkQ",
-      "url": "https://images.unsplash.com/photo-1788280962283-0c17b52c0d0b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOHx8fHx8fDF8fDE3OTAwMjU5NDN8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1788280962283-0c17b52c0d0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOHx8fHx8fDF8fDE3OTAwMjU5NDN8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "pelicans waiting for a meal",
-      "author": "Ellen Winslow",
-      "dominantColor": "#262626"
-    },
-    {
-      "id": "unsplash_iqnkYd_Jhxk",
-      "url": "https://images.unsplash.com/photo-1786285756680-f53cf6105876?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOXx8fHx8fDF8fDE3OTAwMjU5NDN8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1786285756680-f53cf6105876?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOXx8fHx8fDF8fDE3OTAwMjU5NDN8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A brown cockroach on a rough concrete surface near a deep crack",
-      "author": "Dmytro Bayer",
+      "author": "Andrey K",
       "dominantColor": "#c0c0c0"
+    },
+    {
+      "id": "unsplash_AT9a6UJmseM",
+      "url": "https://images.unsplash.com/photo-1764873810743-66a907d62e75?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOHx8fHx8fDF8fDE3OTAwNzMzOTR8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1764873810743-66a907d62e75?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOHx8fHx8fDF8fDE3OTAwNzMzOTR8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Untitled",
+      "author": "Alina Chernovolova",
+      "dominantColor": "#737373"
+    },
+    {
+      "id": "unsplash_jsm4L6PZzU4",
+      "url": "https://images.unsplash.com/photo-1789664027098-7cf9cbbc068d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOXx8fHx8fDF8fDE3OTAwNzMzOTR8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1789664027098-7cf9cbbc068d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOXx8fHx8fDF8fDE3OTAwNzMzOTR8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A blurred person walking past a train platform with red and white markings",
+      "author": "Zoltan Fekeshazy",
+      "dominantColor": "#c0c0a6"
+    },
+    {
+      "id": "unsplash_LlExFMpCYwY",
+      "url": "https://images.unsplash.com/photo-1789417252907-6df6cd80fe4e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyMHx8fHx8fDF8fDE3OTAwNzMzOTR8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1789417252907-6df6cd80fe4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyMHx8fHx8fDF8fDE3OTAwNzMzOTR8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "The San Francisco skyline across the bay during the golden hour",
+      "author": "Kellen Riggin",
+      "dominantColor": "#262626"
     }
   ],
   "topics": [
@@ -187,7 +195,7 @@
       "slug": "textures-patterns",
       "title": "Textures",
       "description": "Whether you’re looking for stunning macro-photography or shots of complex architectural shapes — you’ve come to the right place.",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1710694835367-0b69d8f4d9b0?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1787285429644-17c9712d2a44?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "hmenvQhUmxM",
@@ -229,7 +237,7 @@
       "slug": "people",
       "title": "People",
       "description": "In this category, photographers capture emotions, cultures, and stories through candid moments and formal portraits.",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1697753121669-fe1307d66b7d?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1789235255336-5e78fe7d68bd?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "Jpg6Kidl-Hk",
@@ -260,5 +268,5 @@
       "coverPhoto": "https://plus.unsplash.com/premium_vector-1754309786165-260751d3738e?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     }
   ],
-  "updatedAt": "2026-09-21T21:25:44.101Z"
+  "updatedAt": "2026-09-22T10:36:34.857Z"
 }
