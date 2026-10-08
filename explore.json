@@ -1,156 +1,164 @@
 {
   "trending": [
     {
-      "id": "unsplash_GXiTXM3_VnY",
-      "url": "https://images.unsplash.com/photo-1790274742526-7352f211a403?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxfHx8fHx8MXx8MTc5MTQxMTk5Nnw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1790274742526-7352f211a403?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxfHx8fHx8MXx8MTc5MTQxMTk5Nnw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A must-do climb with spectacular views out to the ocean from its ancient summit. Location: Mount Coolum National Park, Mount Coolum Walking Trail, Sunshine Coast.",
+      "id": "unsplash_fe_GPGwkwcA",
+      "url": "https://images.unsplash.com/photo-1789758612877-fa37f9689a20?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxfHx8fHx8MXx8MTc5MTQ2MjU3NXw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1789758612877-fa37f9689a20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxfHx8fHx8MXx8MTc5MTQ2MjU3NXw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Kayaking around the Tangalooma Wrecks. Location: Mulgumpin, Moreton Island, Tangalooma Island Resort, Brisbane.",
       "author": "Queensland, Australia",
-      "dominantColor": "#a6c0d9"
+      "dominantColor": "#0c8ca6"
     },
     {
-      "id": "unsplash_rj1IGpHcIc0",
-      "url": "https://images.unsplash.com/photo-1791313779146-f1b991068700?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyfHx8fHx8MXx8MTc5MTQxMTk5Nnw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1791313779146-f1b991068700?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyfHx8fHx8MXx8MTc5MTQxMTk5Nnw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Mount Fuji rising above a lake with pink cosmos flowers in the foreground",
-      "author": "Daniel Seßler",
-      "dominantColor": "#d9d9d9"
-    },
-    {
-      "id": "unsplash_CzmmMCYOGpk",
-      "url": "https://images.unsplash.com/photo-1791357121235-4f113ffc1d7e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwzfHx8fHx8MXx8MTc5MTQxMTk5Nnw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1791357121235-4f113ffc1d7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwzfHx8fHx8MXx8MTc5MTQxMTk5Nnw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A person in a reflective mirror dress roller skating on the Hollywood Walk of Fame",
-      "author": "Juan Lodola",
-      "dominantColor": "#26260c"
-    },
-    {
-      "id": "unsplash_BHpcOQcwW5Y",
-      "url": "https://images.unsplash.com/photo-1791188210902-b7097efa300a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw0fHx8fHx8MXx8MTc5MTQxMTk5Nnw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1791188210902-b7097efa300a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw0fHx8fHx8MXx8MTc5MTQxMTk5Nnw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A woman in a white top and black shorts performing a handstand on a terrace",
-      "author": "Marvin Alexander Avila",
-      "dominantColor": "#a6a6a6"
-    },
-    {
-      "id": "unsplash_GfV1tVRB2Rg",
-      "url": "https://images.unsplash.com/photo-1791352616735-8f3d5c0aefdd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw1fHx8fHx8MXx8MTc5MTQxMTk5Nnw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1791352616735-8f3d5c0aefdd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw1fHx8fHx8MXx8MTc5MTQxMTk5Nnw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Cinderella Castle in Tokyo Disneyland with flowers in the foreground under bright sunlight",
-      "author": "Jonathan Ikemura",
-      "dominantColor": "#f3f3f3"
-    },
-    {
-      "id": "unsplash_TPeV3J5SgqQ",
-      "url": "https://images.unsplash.com/photo-1790948151282-58b5c93774a6?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw2fHx8fHx8MXx8MTc5MTQxMTk5Nnw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1790948151282-58b5c93774a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw2fHx8fHx8MXx8MTc5MTQxMTk5Nnw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Three smooth metallic discs floating at an angle against a light grey background",
-      "author": "Mavis Hopper",
-      "dominantColor": "#c0c0c0"
-    },
-    {
-      "id": "unsplash_J0eaGf7TL1s",
-      "url": "https://images.unsplash.com/photo-1791350879692-0f88043725b7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw3fHx8fHx8MXx8MTc5MTQxMTk5Nnw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1791350879692-0f88043725b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw3fHx8fHx8MXx8MTc5MTQxMTk5Nnw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Iridescent soap film ribbons with blue and gold highlights on a grey background",
-      "author": "Rick Rothenberg",
-      "dominantColor": "#595959"
-    },
-    {
-      "id": "unsplash__waiLulg3M8",
-      "url": "https://images.unsplash.com/photo-1779896412017-0583c466e261?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHw4fHx8fHx8MXx8MTc5MTQxMTk5Nnw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1779896412017-0583c466e261?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHw4fHx8fHx8MXx8MTc5MTQxMTk5Nnw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Two college friends study in her apartment",
-      "author": "Sandisk",
-      "dominantColor": "#260c0c"
-    },
-    {
-      "id": "unsplash_K4QJaZzkCs0",
-      "url": "https://images.unsplash.com/photo-1790596858781-a0b8180cd87f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw5fHx8fHx8MXx8MTc5MTQxMTk5Nnw&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1790596858781-a0b8180cd87f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw5fHx8fHx8MXx8MTc5MTQxMTk5Nnw&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A lone visitor walks beneath the white arches and stairs of Masjid Budi Guna in Bogor.",
-      "author": "Alim",
-      "dominantColor": "#c0c0c0"
-    },
-    {
-      "id": "unsplash_ClUrHt4E5c0",
-      "url": "https://images.unsplash.com/photo-1790789655397-1bb011fa75e7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMHx8fHx8fDF8fDE3OTE0MTE5OTZ8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1790789655397-1bb011fa75e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMHx8fHx8fDF8fDE3OTE0MTE5OTZ8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Dense fog rolling over forested hills and distant mountain ridges",
-      "author": "Daniil Silantev",
-      "dominantColor": "#f3f3f3"
-    },
-    {
-      "id": "unsplash_BszJN54G1LY",
-      "url": "https://images.unsplash.com/photo-1790619642682-75c030cffe72?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMXx8fHx8fDF8fDE3OTE0MTE5OTZ8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1790619642682-75c030cffe72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMXx8fHx8fDF8fDE3OTE0MTE5OTZ8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Classical statues and a central metallic sculpture in a hall with a pool",
-      "author": "Parker Nate",
-      "dominantColor": "#f3f3f3"
-    },
-    {
-      "id": "unsplash_OJjyQ9yvZEc",
-      "url": "https://images.unsplash.com/photo-1790655725655-2d4ffa2231fa?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMnx8fHx8fDF8fDE3OTE0MTE5OTZ8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1790655725655-2d4ffa2231fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMnx8fHx8fDF8fDE3OTE0MTE5OTZ8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Cascade Range - Mt. Jefferson",
-      "author": "daniel melko",
-      "dominantColor": "#738c8c"
-    },
-    {
-      "id": "unsplash_boTw8l3dRGc",
-      "url": "https://images.unsplash.com/photo-1791114744075-1dc056d7862b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxM3x8fHx8fDF8fDE3OTE0MTE5OTZ8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1791114744075-1dc056d7862b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxM3x8fHx8fDF8fDE3OTE0MTE5OTZ8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Aerial view of eroded grey clay ridges and deep gullies in a desert landscape",
-      "author": "sayan Nath",
-      "dominantColor": "#8c8c8c"
-    },
-    {
-      "id": "unsplash_IM43ZCyvYb8",
-      "url": "https://images.unsplash.com/photo-1790943179150-4f017facb3d8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNHx8fHx8fDF8fDE3OTE0MTE5OTZ8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1790943179150-4f017facb3d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNHx8fHx8fDF8fDE3OTE0MTE5OTZ8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "The Shape of my struggle",
-      "author": "Unavailable Photographer",
-      "dominantColor": "#f3d9d9"
-    },
-    {
-      "id": "unsplash_GicW29bfXYM",
-      "url": "https://images.unsplash.com/photo-1789758612543-8ba27309db9e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxNXx8fHx8fDF8fDE3OTE0MTE5OTZ8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1789758612543-8ba27309db9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxNXx8fHx8fDF8fDE3OTE0MTE5OTZ8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "View of Story Bridge from Wilson's Lookout. Location: New Farm, Wilson's Lookout, Brisbane.",
-      "author": "Queensland, Australia",
-      "dominantColor": "#737373"
-    },
-    {
-      "id": "unsplash_mXZwnccN9Gk",
-      "url": "https://images.unsplash.com/photo-1791015759553-227f22b16087?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNnx8fHx8fDF8fDE3OTE0MTE5OTZ8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1791015759553-227f22b16087?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNnx8fHx8fDF8fDE3OTE0MTE5OTZ8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Shot on Kodak Gold 200",
-      "author": "Maximilian Bungart",
-      "dominantColor": "#f3f3f3"
-    },
-    {
-      "id": "unsplash_gHqxhjuYCnk",
-      "url": "https://images.unsplash.com/photo-1790014415640-b937789152ce?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxN3x8fHx8fDF8fDE3OTE0MTE5OTZ8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1790014415640-b937789152ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxN3x8fHx8fDF8fDE3OTE0MTE5OTZ8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Two large black and white portraits displayed on a gallery wall",
-      "author": "Sou Jest",
-      "dominantColor": "#a6a6a6"
-    },
-    {
-      "id": "unsplash_4NWH05znQGA",
-      "url": "https://images.unsplash.com/photo-1788156416944-97edf0a9d140?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOHx8fHx8fDF8fDE3OTE0MTE5OTZ8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1788156416944-97edf0a9d140?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOHx8fHx8fDF8fDE3OTE0MTE5OTZ8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A woman in a white wedding dress dancing with a hand fan",
-      "author": "sammy swae",
+      "id": "unsplash_ctWELbh6STQ",
+      "url": "https://images.unsplash.com/photo-1790655490619-2e5832297a64?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyfHx8fHx8MXx8MTc5MTQ2MjU3NXw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1790655490619-2e5832297a64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyfHx8fHx8MXx8MTc5MTQ2MjU3NXw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Summer beach essentials on rocky shoreline",
+      "author": "engin akyurt",
       "dominantColor": "#262626"
     },
     {
-      "id": "unsplash_sC_NIo8uH00",
-      "url": "https://images.unsplash.com/photo-1790671083750-9fe6fac0db44?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOXx8fHx8fDF8fDE3OTE0MTE5OTZ8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1790671083750-9fe6fac0db44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOXx8fHx8fDF8fDE3OTE0MTE5OTZ8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A row of glass greenhouses in Berkeley during the golden hour",
-      "author": "Dan Begel",
-      "dominantColor": "#c0c0a6"
+      "id": "unsplash_L-L241c2vIQ",
+      "url": "https://images.unsplash.com/photo-1790616228379-7dca15320276?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwzfHx8fHx8MXx8MTc5MTQ2MjU3NXw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1790616228379-7dca15320276?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwzfHx8fHx8MXx8MTc5MTQ2MjU3NXw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Small details aboard a traditional Indonesian boat during a multi-day journey to Komodo National Park.",
+      "author": "Yulya Powell",
+      "dominantColor": "#a68c73"
+    },
+    {
+      "id": "unsplash_JAQwm9OTEqM",
+      "url": "https://images.unsplash.com/photo-1791406132590-868da71a1d0c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw0fHx8fHx8MXx8MTc5MTQ2MjU3NXw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1791406132590-868da71a1d0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw0fHx8fHx8MXx8MTc5MTQ2MjU3NXw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Untitled",
+      "author": "Marco D'Abramo",
+      "dominantColor": "#594040"
+    },
+    {
+      "id": "unsplash_wqmD0En9YW8",
+      "url": "https://images.unsplash.com/photo-1790360053430-2ab40bdb9211?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw1fHx8fHx8MXx8MTc5MTQ2MjU3NXw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1790360053430-2ab40bdb9211?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw1fHx8fHx8MXx8MTc5MTQ2MjU3NXw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "People swimming in the sea near a beach with a white umbrella",
+      "author": "Arlind Photography",
+      "dominantColor": "#737359"
+    },
+    {
+      "id": "unsplash_Gsb1OKFCGWw",
+      "url": "https://images.unsplash.com/photo-1790426722666-b0241949c949?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw2fHx8fHx8MXx8MTc5MTQ2MjU3NXw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1790426722666-b0241949c949?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw2fHx8fHx8MXx8MTc5MTQ2MjU3NXw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Foyer (IG: @clay.banks)",
+      "author": "Clay Banks",
+      "dominantColor": "#59260c"
+    },
+    {
+      "id": "unsplash_xXzA1BxdCe4",
+      "url": "https://images.unsplash.com/photo-1790878267246-44dddb1c9583?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw3fHx8fHx8MXx8MTc5MTQ2MjU3NXw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1790878267246-44dddb1c9583?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw3fHx8fHx8MXx8MTc5MTQ2MjU3NXw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Three schoolchildren gather among coils of vibrant fishing nets, studying together in a striking scene where everyday childhood unfolds within the colourful textures of a working community.",
+      "author": "Shivani Tibrewal",
+      "dominantColor": "#0c5959"
+    },
+    {
+      "id": "unsplash_8NzMimEZAno",
+      "url": "https://images.unsplash.com/photo-1779896412244-aed1d2f8bed2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHw4fHx8fHx8MXx8MTc5MTQ2MjU3NXw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1779896412244-aed1d2f8bed2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHw4fHx8fHx8MXx8MTc5MTQ2MjU3NXw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Young man using laptop and camera on sofa",
+      "author": "Sandisk",
+      "dominantColor": "#d9d9d9"
+    },
+    {
+      "id": "unsplash_N5uTvfOMXTQ",
+      "url": "https://images.unsplash.com/photo-1791188213617-278d372ab77d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw5fHx8fHx8MXx8MTc5MTQ2MjU3NXw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1791188213617-278d372ab77d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw5fHx8fHx8MXx8MTc5MTQ2MjU3NXw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A narrow stone alleyway with yellow walls and hanging fishing buoys in a village",
+      "author": "Marvin Alexander Avila",
+      "dominantColor": "#26260c"
+    },
+    {
+      "id": "unsplash_JrkSQWpEBgI",
+      "url": "https://images.unsplash.com/photo-1791414262651-8ad3c1e9a5f3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMHx8fHx8fDF8fDE3OTE0NjI1NzV8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1791414262651-8ad3c1e9a5f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMHx8fHx8fDF8fDE3OTE0NjI1NzV8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Waves crashing against a dark rocky cliff on a beach at golden hour",
+      "author": "Kellen Riggin",
+      "dominantColor": "#26260c"
+    },
+    {
+      "id": "unsplash_IVbRHM3bR7c",
+      "url": "https://images.unsplash.com/photo-1791349164609-63d191df180d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMXx8fHx8fDF8fDE3OTE0NjI1NzV8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1791349164609-63d191df180d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMXx8fHx8fDF8fDE3OTE0NjI1NzV8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Oak branches with yellow and orange autumn leaves against a bright blue sky",
+      "author": "Julian Kraus",
+      "dominantColor": "#f3f3f3"
+    },
+    {
+      "id": "unsplash_eNDLKV50B8U",
+      "url": "https://images.unsplash.com/photo-1791436105425-1712d6ba5a0d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMnx8fHx8fDF8fDE3OTE0NjI1NzV8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1791436105425-1712d6ba5a0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMnx8fHx8fDF8fDE3OTE0NjI1NzV8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A textured wall of weathered brown bricks arranged in a repeating geometric pattern",
+      "author": "Bernd 📷 Dittrich",
+      "dominantColor": "#a68c73"
+    },
+    {
+      "id": "unsplash_eg4d0HkYtFI",
+      "url": "https://images.unsplash.com/photo-1791400543441-3ce1061fafc8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxM3x8fHx8fDF8fDE3OTE0NjI1NzV8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1791400543441-3ce1061fafc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxM3x8fHx8fDF8fDE3OTE0NjI1NzV8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Two grape hyacinth flowers rising above long green leaves in a garden",
+      "author": "Yana Gorbunova",
+      "dominantColor": "#0c400c"
+    },
+    {
+      "id": "unsplash_Y51w_RjMhDg",
+      "url": "https://images.unsplash.com/photo-1791407818991-69fc98659e8f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNHx8fHx8fDF8fDE3OTE0NjI1NzV8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1791407818991-69fc98659e8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNHx8fHx8fDF8fDE3OTE0NjI1NzV8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A turquoise tiled dome of a mosque in Bukhara, Uzbekistan, framed by silhouettes",
+      "author": "Marco D'Abramo",
+      "dominantColor": "#a6c0c0"
+    },
+    {
+      "id": "unsplash_0pNAdPKf95o",
+      "url": "https://images.unsplash.com/photo-1789758385648-0266be61ff7c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxNXx8fHx8fDF8fDE3OTE0NjI1NzV8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1789758385648-0266be61ff7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxNXx8fHx8fDF8fDE3OTE0NjI1NzV8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Couple enjoying the views of the Story Bridge and Brisbane River from the infinity rooftop pool. Location: Crystalbrook Vincent, Brisbane City, Brisbane",
+      "author": "Queensland, Australia",
+      "dominantColor": "#8cc0d9"
+    },
+    {
+      "id": "unsplash_cMEXIiKDGP0",
+      "url": "https://images.unsplash.com/photo-1789983119194-8bbd119c4511?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNnx8fHx8fDF8fDE3OTE0NjI1NzV8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1789983119194-8bbd119c4511?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNnx8fHx8fDF8fDE3OTE0NjI1NzV8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A moody close-up of a single maple leaf in autumn — its curled edges and delicate veins captured in soft, shallow-focus bokeh against a dark, atmospheric background. Warm golden‑brown tones and subtle texture celebrate the quiet, transient beauty of seasonal change.",
+      "author": "Egor Myznik",
+      "dominantColor": "#26260c"
+    },
+    {
+      "id": "unsplash_unt9PcBoxvk",
+      "url": "https://images.unsplash.com/photo-1790205970550-6f67735ed5fa?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxN3x8fHx8fDF8fDE3OTE0NjI1NzV8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1790205970550-6f67735ed5fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxN3x8fHx8fDF8fDE3OTE0NjI1NzV8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Izakaya; Aasakusa",
+      "author": "jack berry",
+      "dominantColor": "#26260c"
+    },
+    {
+      "id": "unsplash_8Ie4CLzYv4M",
+      "url": "https://images.unsplash.com/photo-1790239061926-f78165c6948a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOHx8fHx8fDF8fDE3OTE0NjI1NzV8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1790239061926-f78165c6948a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOHx8fHx8fDF8fDE3OTE0NjI1NzV8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A passenger boat on Königssee lake before a dense forest in autumn colors",
+      "author": "Daniel J. Schwarz",
+      "dominantColor": "#262626"
+    },
+    {
+      "id": "unsplash_7T2bbsnMSTQ",
+      "url": "https://images.unsplash.com/photo-1790240319257-fc2d07e24f93?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOXx8fHx8fDF8fDE3OTE0NjI1NzV8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1790240319257-fc2d07e24f93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOXx8fHx8fDF8fDE3OTE0NjI1NzV8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Lake Iseo",
+      "author": "Crina Parasca",
+      "dominantColor": "#738c8c"
+    },
+    {
+      "id": "unsplash_1DkgcAvbA8g",
+      "url": "https://images.unsplash.com/photo-1790564689348-c7c9909f4fd5?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyMHx8fHx8fDF8fDE3OTE0NjI1NzV8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1790564689348-c7c9909f4fd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyMHx8fHx8fDF8fDE3OTE0NjI1NzV8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Aerial view of colorful kayaks fanned out around a dock",
+      "author": "Ahmet Yüksek ✪",
+      "dominantColor": "#262626"
     }
   ],
   "topics": [
@@ -166,7 +174,7 @@
       "slug": "animals",
       "title": "Animals",
       "description": "Showcasing the creatures that make our world wild, this category celebrates the wonders of the animal kingdom.",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1790704033127-db455a7acbce?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1787378054803-732f2d2a6417?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "M8jVbLbTRws",
@@ -180,42 +188,42 @@
       "slug": "experimental",
       "title": "Experimental",
       "description": "This category invites photographers to explore new techniques and perspectives, pushing creative boundaries.",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1791018411521-28c732b8b196?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1791215354919-52ce2c24b143?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "S4MKLAsBB74",
       "slug": "fashion-beauty",
       "title": "Fashion & Beauty",
       "description": "In this category, photographers turn fashion and beauty into art, capturing trends and personal style through expert composition.",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1762610839812-b720914d3a65?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1789919548644-22958daba5da?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "hmenvQhUmxM",
       "slug": "film",
       "title": "Film",
       "description": "This category celebrates film's timeless beauty, capturing moments with rich textures and unique colors that define analog photography.",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1773267570517-bd9f4c96fd76?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1791197757215-d008eca868be?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "6sMVjTLSkeQ",
       "slug": "nature",
       "title": "Nature",
       "description": "This category showcases nature’s beauty, from vast landscapes to macro details, transporting viewers to the outdoors.",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1790699306291-9141a5e36cee?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1764388522421-ca9104b3a8c2?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "towJZFskpGg",
       "slug": "people",
       "title": "People",
       "description": "In this category, photographers capture emotions, cultures, and stories through candid moments and formal portraits.",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1791312841817-e3980e0930ca?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1791020171559-09c9ec5ba421?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "Fzo3zuOHN6w",
       "slug": "travel",
       "title": "Travel",
       "description": "Explore the globe through captivating landscapes and vibrant cultures in this Travel category, celebrating diverse destinations worldwide.",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1791039415487-880166b9b9e9?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1788383641380-58037da21ce9?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "CDwuwXJAbEw",
@@ -250,7 +258,7 @@
       "slug": "illustration-award",
       "title": "Illustration Award",
       "description": "This category showcases pure artistry and the endless possibilities of vector art. All submissions must be in SVG. ",
-      "coverPhoto": "https://plus.unsplash.com/premium_vector-1788513204022-556ebf8eccfb?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_vector-1777156641047-2b839771ba48?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "If65AuNOOxQ",
@@ -260,5 +268,5 @@
       "coverPhoto": "https://plus.unsplash.com/premium_vector-1736363909866-e5fd134bac97?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     }
   ],
-  "updatedAt": "2026-10-07T22:26:36.431Z"
+  "updatedAt": "2026-10-08T12:29:35.696Z"
 }
